@@ -20,7 +20,9 @@
 * Lagrange multipliers
 
 ![svm1](images/svm1.png)
+![svm7](images/svm7.png)
 ![svm2](images/svm2.png)
+![svm8](images/svm8.png)
 ![svm3](images/svm3.png)
 ![svm4](images/svm4.png)
 ![svm5](images/svm5.png)
