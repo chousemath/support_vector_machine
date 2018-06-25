@@ -25,3 +25,8 @@
 ![svm4](images/svm4.png)
 ![svm5](images/svm5.png)
 ![svm6](images/svm6.png)
+
+### Resources
+
+* https://www.youtube.com/watch?v=N1vOgolbjSc
+* https://github.com/adashofdata/muffin-cupcake
