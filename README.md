@@ -2,6 +2,12 @@
 
 * You can think of a classifier as a function that takes in some data as input, and returns a label as output
 * Supervised learning: create a classifier by finding patterns in examples
+* Classifiers are only as good as the features you provide it
+* In machine learning, you generally need multiple features to work with, otherwise an if/else statement might be just as good as a classifier
+* You need to avoid useless features (features that may appear useful by accident), otherwise it might actually hurt your classifier
+* You also want your features to be fully independent (they should not be coupled in any way)
+* Avoid redundant features
+* You want your features to be easy to understand
 
 ### Sample Support Vector Machine
 
