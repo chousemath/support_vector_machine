@@ -19,6 +19,12 @@
 * Conversely, a very small value of C will cause the optimizer to look for a larger-margin separating hyperplane, even if that hyperplane misclassifies more points.
 * For very tiny values of C, you should get misclassified examples, often even if your training data is linearly separable.
 
+### Terms
+
+* Receptive field: what set of inputs makes the value of this neuron as high as it can possibly be
+* Sigmoid squashing function: put a value in (x-value), where it crosses the sigmoid function is your output value (y-value), no matter where you are, the value is always between 1 and -1
+* Rectified linear units: if value is negative, make it zero, if it is positive, keep the value
+
 ### Relevant Mathematical Concepts
 
 * Constrained optimization
