@@ -1,3 +1,8 @@
+### What is a Classifier?
+
+* You can think of a classifier as a function that takes in some data as input, and returns a label as output
+* Supervised learning: create a classifier by finding patterns in examples
+
 ### Sample Support Vector Machine
 
 * A support vector machine is a classification technique
