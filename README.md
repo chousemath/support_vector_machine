@@ -53,3 +53,15 @@
 * https://github.com/adashofdata/muffin-cupcake
 * https://www.youtube.com/watch?v=ax8LxRZCORU
 
+### Vocabulary
+
+* 범주화 (Categorization)
+* 분류 (Classification)
+* 머신러닝 (Machine Learning)
+* 협업 필터링 (Collaborative Filtering)
+
+### Goal for D-Day
+
+* 300 AI/ML/Math Tutorials (4/300)
+* 30 Korean AI/ML News Articles (0/30)
+
