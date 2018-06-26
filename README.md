@@ -1,6 +1,6 @@
 ### What is a Classifier?
 
-* You can think of a classifier as a function that takes in some data as input, and returns a label as output
+* You can think of a classifier (`분류자`) as a function (`함수`) that takes in some data as input, and returns a label as output
 * Supervised learning: create a classifier by finding patterns in examples
 * Classifiers are only as good as the features you provide it
 * In machine learning, you generally need multiple features to work with, otherwise an if/else statement might be just as good as a classifier
@@ -8,6 +8,8 @@
 * You also want your features to be fully independent (they should not be coupled in any way)
 * Avoid redundant features
 * You want your features to be easy to understand
+* In Scikit-Learn, although there are many different types of classifiers, their python interfaces are almost identical
+* One way to think of machine learning is to use training data to adjust the parameters of a machine learning model
 
 ### Sample Support Vector Machine
 
