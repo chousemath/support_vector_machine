@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo -e "\033[1;32m ** Setting environment variables of MobileNet ** \033[0m"
+
+IMAGE_SIZE=224
+ARCHITECTURE="mobilenet_0.50_${IMAGE_SIZE}"

@@ -53,6 +53,11 @@
 * https://github.com/adashofdata/muffin-cupcake
 * https://www.youtube.com/watch?v=ax8LxRZCORU
 
+### Configuring MobileNet
+
+* `resolution`: Feeding in a higher resolution image takes more processing time, but results in better classification accuracy
+* `size`: Relative size of the model as a fraction of the largest MobileNet: 1.0, 0.75, 0.50, or 0.25
+
 ### Vocabulary
 
 * 범주화 (Categorization)
@@ -62,6 +67,26 @@
 
 ### Goal for D-Day
 
-* 300 AI/ML/Math Tutorials (4/300)
+* 300 AI/ML/Math Tutorials (5/300)
 * 30 Korean AI/ML News Articles (0/30)
+
+### Training Commands
+
+```bash
+# start tensorboard
+tensorboard --logdir tf_files/training_summaries &
+# kill all existing tensorboard instances
+pkill -f "tensorboard"
+```
+
+```bash
+# retrain the model
+# tensorflow demands all images by jpg
+python retrain.py --bottleneck_dir=tf_files/bottlenecks --how_many_training_steps=500 --model_dir=tf_files/models/ --summaries_dir=tf_files/training_summaries/"${ARCHITECTURE}" --output_graph=tf_files/retrained_graph.pb --output_labels=tf_files/retrained_labels.txt --architecture="${ARCHITECTURE}" --image_dir=tf_files/flower_photos
+```
+
+```bash
+# actually use the model
+python label_image.py --graph=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/retrained_graph.pb --labels=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/retrained_labels.txt --input_layer=Placeholder --output_layer=final_result --image=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/test.jpeg
+```
 
