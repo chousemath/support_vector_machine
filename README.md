@@ -88,20 +88,31 @@
 
 ```bash
 # start tensorboard
-tensorboard --logdir tf_files/training_summaries &
+$ tensorboard --logdir tf_files/training_summaries &
 # kill all existing tensorboard instances
-pkill -f "tensorboard"
+$ pkill -f "tensorboard"
 ```
 
 ```bash
 # retrain the model
 # tensorflow demands all images by jpg
 # You can very likely get improved results (i.e. higher accuracy) by training for longer (how_many_training_steps)
-python retrain.py --bottleneck_dir=tf_files/bottlenecks --how_many_training_steps=4000 --model_dir=tf_files/models/ --summaries_dir=tf_files/training_summaries/"${ARCHITECTURE}" --output_graph=tf_files/retrained_graph.pb --output_labels=tf_files/retrained_labels.txt --architecture="${ARCHITECTURE}" --image_dir=tf_files/flower_photos
+$ python retrain.py --bottleneck_dir=tf_files/bottlenecks --how_many_training_steps=4000 --model_dir=tf_files/models/ --summaries_dir=tf_files/training_summaries/"${ARCHITECTURE}" --output_graph=tf_files/retrained_graph.pb --output_labels=tf_files/retrained_labels.txt --architecture="${ARCHITECTURE}" --image_dir=tf_files/flower_photos
 ```
 
 ```bash
-# actually use the model
-python label_image.py --graph=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/retrained_graph.pb --labels=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/retrained_labels.txt --input_layer=Placeholder --output_layer=final_result --image=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes//test_data/test.jpeg
+# actually use the model on my personal computer
+$ python label_image.py --graph=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/retrained_graph.pb --labels=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/retrained_labels.txt --input_layer=Placeholder --output_layer=final_result --image=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/test_data/test.jpg
+# performing the same command on a linux box
+python label_image.py --graph=/home/contact/support_vector_machine/machine_learning_recipes/tf_files/retrained_graph.pb --labels=/home/contact/support_vector_machine/machine_learning_recipes/tf_files/retrained_labels.txt --input_layer=Placeholder --output_layer=final_result --image=/home/contact/support_vector_machine/machine_learning_recipes/test_data/test.jpg
+```
+
+### Using Anaconda on Google Compute Engine
+
+```bash
+# Using the `conda` binary
+$ /home/contact/anaconda3/bin/conda INPUT_COMMAND_HERE
+# Activating a virtual environment
+$ source /home/contact/anaconda3/bin/activate ai
 ```
 

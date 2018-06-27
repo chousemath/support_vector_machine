@@ -142,4 +142,4 @@ if __name__ == "__main__":
             'label': labels[i],
             'confidence': results[i]
         }
-        print(f'LABEL: "{labels[i]}", CONFIDENCE: "{results[i] * 100}%"')
+        print(f'LABEL: "{labels[i]}", CONFIDENCE: "{results[i]}"')
