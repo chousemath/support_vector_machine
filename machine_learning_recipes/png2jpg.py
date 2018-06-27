@@ -5,7 +5,7 @@ import string
 import random
 
 year = 2015
-file_path = f'/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/flower_photos/{year}_hyundai_accent_gls'
+file_path = f'/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/flower_photos/{year}_volkswagen_tiguan_4motion-auto-r-line'
 count = 0
 for path in listdir(file_path):
     if str(year) in path:

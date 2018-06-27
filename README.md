@@ -10,6 +10,16 @@
 * You want your features to be easy to understand
 * In Scikit-Learn, although there are many different types of classifiers, their python interfaces are almost identical
 * One way to think of machine learning is to use training data to adjust the parameters of a machine learning model
+* For images, it is extremely difficult to extract useful features by hand
+* Deep learning is especially useful because you do not have to extract features manually, deep learning uses the raw pixels of each image, and the classifier takes care of the rest
+* Good training data is high in diversity and quantity
+* When we work with images, we use the raw pixels as features
+
+### TensorFlow
+
+* `Training accuracy`: shows the percentage of the images used in the current training batch that were labeled with the correct class
+* `Validation accuracy`: the validation accuracy is the precision (percentage of correctly-labelled images) on a randomly-selected group of images from a different set
+* `Cross entropy`: is a loss function that gives a glimpse into how well the learning process is progressing. (Lower numbers are better.)
 
 ### Sample Support Vector Machine
 
@@ -32,6 +42,10 @@
 * Receptive field: what set of inputs makes the value of this neuron as high as it can possibly be
 * Sigmoid squashing function: put a value in (x-value), where it crosses the sigmoid function is your output value (y-value), no matter where you are, the value is always between 1 and -1
 * Rectified linear units: if value is negative, make it zero, if it is positive, keep the value
+
+### Operations
+
+* There is a Docker container with the GPU version of TensorFlow pre-installed
 
 ### Relevant Mathematical Concepts
 
@@ -82,11 +96,12 @@ pkill -f "tensorboard"
 ```bash
 # retrain the model
 # tensorflow demands all images by jpg
-python retrain.py --bottleneck_dir=tf_files/bottlenecks --how_many_training_steps=500 --model_dir=tf_files/models/ --summaries_dir=tf_files/training_summaries/"${ARCHITECTURE}" --output_graph=tf_files/retrained_graph.pb --output_labels=tf_files/retrained_labels.txt --architecture="${ARCHITECTURE}" --image_dir=tf_files/flower_photos
+# You can very likely get improved results (i.e. higher accuracy) by training for longer (how_many_training_steps)
+python retrain.py --bottleneck_dir=tf_files/bottlenecks --how_many_training_steps=4000 --model_dir=tf_files/models/ --summaries_dir=tf_files/training_summaries/"${ARCHITECTURE}" --output_graph=tf_files/retrained_graph.pb --output_labels=tf_files/retrained_labels.txt --architecture="${ARCHITECTURE}" --image_dir=tf_files/flower_photos
 ```
 
 ```bash
 # actually use the model
-python label_image.py --graph=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/retrained_graph.pb --labels=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/retrained_labels.txt --input_layer=Placeholder --output_layer=final_result --image=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/test.jpeg
+python label_image.py --graph=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/retrained_graph.pb --labels=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/retrained_labels.txt --input_layer=Placeholder --output_layer=final_result --image=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes//test_data/test.jpeg
 ```
 
