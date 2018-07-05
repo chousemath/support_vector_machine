@@ -9,11 +9,13 @@ import datetime
 import json
 from flask import Flask, jsonify, request
 from flask_restful import Resource, Api
+from flask_cors import CORS
 
 ROOT = '/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes'
 # ROOT = '/home/contact/support_vector_machine/machine_learning_recipes'
 
 application = Flask(__name__)
+CORS(application)
 api = Api(application)
 
 
@@ -42,7 +44,7 @@ class TensorFlowRequests(Resource):
         return jsonify(success=True, data=predictions)
 
 
-api.add_resource(TensorFlowRequests, '/tensor_flow_requests')
+api.add_resource(TensorFlowRequests, '/requests')
 
 if __name__ == '__main__':
     application.run(debug=True)

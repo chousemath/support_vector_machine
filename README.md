@@ -94,6 +94,18 @@ $ pkill -f "tensorboard"
 ```
 
 ```bash
+# TRAINING THE GARBAGEMAN NEURAL NETWORK
+# The purpose of this neural network is to simply filter out sub-optimal
+# images from the main vehicle model classification neural network
+$ python retrain.py --bottleneck_dir=tf_files2/bottlenecks --how_many_training_steps=4000 --model_dir=tf_files2/models/ --summaries_dir=tf_files2/training_summaries/"${ARCHITECTURE}" --output_graph=tf_files2/retrained_graph.pb --output_labels=tf_files2/retrained_labels.txt --architecture="${ARCHITECTURE}" --image_dir=tf_files2/training_dataset
+```
+
+```bash
+# USING THE GARBAGEMAN NEURAL NETWORK
+$ python label_image.py --graph=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files2/retrained_graph.pb --labels=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files2/retrained_labels.txt --input_layer=Placeholder --output_layer=final_result --image=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/test_data/test.jpg
+```
+
+```bash
 # retrain the model
 # tensorflow demands all images by jpg
 # You can very likely get improved results (i.e. higher accuracy) by training for longer (how_many_training_steps)
