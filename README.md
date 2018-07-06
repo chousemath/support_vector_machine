@@ -94,7 +94,7 @@ $ pkill -f "tensorboard"
 ```
 
 ```bash
-# TRAINING THE GARBAGEMAN NEURAL NETWORK
+# TRAINING THE TrashNet NEURAL NETWORK
 # The purpose of this neural network is to simply filter out sub-optimal
 # images from the main vehicle model classification neural network
 $ python retrain.py --bottleneck_dir=tf_files2/bottlenecks --how_many_training_steps=4000 --model_dir=tf_files2/models/ --summaries_dir=tf_files2/training_summaries/"${ARCHITECTURE}" --output_graph=tf_files2/retrained_graph.pb --output_labels=tf_files2/retrained_labels.txt --architecture="${ARCHITECTURE}" --image_dir=tf_files2/training_dataset

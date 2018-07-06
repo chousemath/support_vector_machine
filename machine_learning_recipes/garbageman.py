@@ -16,7 +16,7 @@ def is_good(raw_output) -> List[str]:
 
 
 ROOT = '/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes'
-YEAR = '2018'
+YEAR = '2017'
 MAKE = 'hyundai'
 MODEL = 'sonata'
 TRIM = 'limited'
@@ -31,7 +31,5 @@ for path in listdir(FILE_PATH):
     cmd = f'python label_image.py {graph} {layers} {input_layer} {output} {image}'
     p = Popen(cmd, shell=True, stdin=PIPE, stdout=PIPE,
               stderr=STDOUT, close_fds=True)
-    split_path = path.split('.')
-    cmd = f'{split_path[0]}-good.{split_path[1]}' if is_good(
-        p.stdout.read()) else f'/{split_path[0]}-bad.{split_path[1]}'
+    cmd = f'good-{path}' if is_good(p.stdout.read()) else f'bad-{path}'
     os.system(f'mv {FILE_PATH}/{path} {FILE_PATH}/{cmd}')
