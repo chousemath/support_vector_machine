@@ -24,6 +24,10 @@ TRIM = sys.argv[4]
 DIRECTORY_NAME = f'{YEAR}_{MAKE}_{MODEL}_{TRIM}'
 FILE_PATH = f'/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/flower_photos/{DIRECTORY_NAME}'
 for path in listdir(FILE_PATH):
+    # make sure you don't check good images again
+    if 'good-' in path:
+        print('good- already in file name, skipping')
+        continue
     graph = f'--graph={ROOT}/tf_files2/retrained_graph.pb'
     layers = f'--labels={ROOT}/tf_files2/retrained_labels.txt'
     input_layer = f'--input_layer=Placeholder'
@@ -34,7 +38,10 @@ for path in listdir(FILE_PATH):
               stderr=STDOUT, close_fds=True)
     try:
         if is_good(p.stdout.read()):
-            print(f'{path} is good')
+            # make sure you mark a good image as such so you do not
+            # end up checking it again
+            os.system(f'mv {FILE_PATH}/{path} {FILE_PATH}/good-{path}')
+            print(f'{path} is good, marked as such...')
         else:
             os.system(f'rm {FILE_PATH}/{path}')
             print(f'deleted {path}')
