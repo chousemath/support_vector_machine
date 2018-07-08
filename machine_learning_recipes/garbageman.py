@@ -5,6 +5,7 @@ import random
 from subprocess import Popen, PIPE, STDOUT
 from pprint import pprint
 from typing import Dict, List
+import sys
 
 
 def is_good(raw_output) -> List[str]:
@@ -16,10 +17,10 @@ def is_good(raw_output) -> List[str]:
 
 
 ROOT = '/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes'
-YEAR = '2016'
-MAKE = 'hyundai'
-MODEL = 'sonata'
-TRIM = 'limited'
+YEAR = sys.argv[1]
+MAKE = sys.argv[2]
+MODEL = sys.argv[3]
+TRIM = sys.argv[4]
 DIRECTORY_NAME = f'{YEAR}_{MAKE}_{MODEL}_{TRIM}'
 FILE_PATH = f'/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/flower_photos/{DIRECTORY_NAME}'
 for path in listdir(FILE_PATH):
@@ -32,8 +33,12 @@ for path in listdir(FILE_PATH):
     p = Popen(cmd, shell=True, stdin=PIPE, stdout=PIPE,
               stderr=STDOUT, close_fds=True)
     try:
-        cmd = f'good-{path}' if is_good(p.stdout.read()) else f'bad-{path}'
-        os.system(f'mv {FILE_PATH}/{path} {FILE_PATH}/{cmd}')
+        if is_good(p.stdout.read()):
+            print(f'{path} is good')
+        else:
+            os.system(f'rm {FILE_PATH}/{path}')
+            print(f'deleted {path}')
+
     except Exception as err:
         print('there was an error...')
         print(err)
