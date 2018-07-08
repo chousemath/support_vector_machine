@@ -1,3 +1,9 @@
+### Installing Anaconda Dependencies
+
+```bash
+conda env create -f environment.yml
+```
+
 ### What is a Classifier?
 
 * You can think of a classifier (`분류자`) as a function (`함수`) that takes in some data as input, and returns a label as output
