@@ -5,6 +5,18 @@
 from os import listdir
 from pprint import pprint
 
+
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+
+
 ROOT = '/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/flower_photos'
 data = {}
 for path in listdir(ROOT):
@@ -22,7 +34,10 @@ for path in listdir(ROOT):
     checked = len(list(filter(lambda f: 'good' in f, file_names)))
     unchecked = total - checked
     if unchecked > 0:
+        print(f'{bcolors.WARNING}Unchecked directory{bcolors.ENDC}')
         print(
-            f'{make}/{model}/{trim}/{year} >>> total:{total}, checked:{checked}, unchecked:{unchecked}')
-        print(f'python garbageman.py {year} {make} {model} {trim}')
+            f'{bcolors.OKGREEN}python garbageman.py {year} {make} {model} {trim}{bcolors.ENDC}')
+        print('=================================================')
+    elif total < 1000:
+        print(f'{bcolors.OKBLUE}Less than 1,000 images: {path}{bcolors.ENDC}')
         print('=================================================')
