@@ -12,7 +12,6 @@ def is_good(raw_output) -> List[str]:
     output = list(filter(lambda x: 'LABEL:' in x,
                          str(raw_output).split('\\n')))
     intermediate = list(map(lambda x: x.split('"'), output))
-    print(f'MAIN PREDICTION: {intermediate[0][1]}')
     return 'good' in intermediate[0][1]
 
 
@@ -26,7 +25,6 @@ FILE_PATH = f'/Users/jo/Desktop/data_science/support_vector_machine/machine_lear
 for path in listdir(FILE_PATH):
     # make sure you don't check good images again
     if 'good-' in path:
-        print('good- already in file name, skipping')
         continue
     graph = f'--graph={ROOT}/tf_files2/retrained_graph.pb'
     layers = f'--labels={ROOT}/tf_files2/retrained_labels.txt'
@@ -41,11 +39,7 @@ for path in listdir(FILE_PATH):
             # make sure you mark a good image as such so you do not
             # end up checking it again
             os.system(f'mv {FILE_PATH}/{path} {FILE_PATH}/good-{path}')
-            print(f'{path} is good, marked as such...')
         else:
             os.system(f'rm {FILE_PATH}/{path}')
-            print(f'deleted {path}')
-
     except Exception as err:
-        print('there was an error...')
         print(err)
