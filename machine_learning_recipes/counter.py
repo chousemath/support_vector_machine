@@ -3,7 +3,6 @@
 # that directory has be completely cleaned of useless images,
 # and then upload that data to a remote database
 from os import listdir
-from pprint import pprint
 
 
 class bcolors:
@@ -18,7 +17,6 @@ class bcolors:
 
 
 ROOT = '/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/flower_photos'
-data = {}
 for path in listdir(ROOT):
     if path == '.DS_Store':
         continue

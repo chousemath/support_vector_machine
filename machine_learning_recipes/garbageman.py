@@ -1,14 +1,15 @@
+# The purpose of this script is to clean a directory
+# of useless images
+
 import os
 from os import listdir
-import string
-import random
 from subprocess import Popen, PIPE, STDOUT
-from pprint import pprint
-from typing import Dict, List
+from typing import List
 import sys
 
 
 def is_good(raw_output) -> List[str]:
+    """Checks whether or not an image has been classified as `good`"""
     output = list(filter(lambda x: 'LABEL:' in x,
                          str(raw_output).split('\\n')))
     intermediate = list(map(lambda x: x.split('"'), output))
