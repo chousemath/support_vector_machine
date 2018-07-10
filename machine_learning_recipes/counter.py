@@ -39,5 +39,5 @@ for path in listdir(ROOT):
             f'{bcolors.OKGREEN}python garbageman.py {year} {make} {model} {trim}{bcolors.ENDC}')
         print('=================================================')
     elif total < 1000:
-        print(f'{bcolors.OKBLUE}Less than 1,000 images: {path}{bcolors.ENDC}')
+        print(f'{bcolors.OKBLUE}Less than 1,000 images ({total}): {path}{bcolors.ENDC}')
         print('=================================================')
