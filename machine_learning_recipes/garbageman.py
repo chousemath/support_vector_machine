@@ -6,6 +6,7 @@ import os
 from os import listdir
 from subprocess import Popen, PIPE, STDOUT
 from typing import List
+import sys
 
 PARSER = argparse.ArgumentParser()
 PARSER.add_argument("year", help="Designates the year of the vehicle")
@@ -27,18 +28,20 @@ def is_good(raw_output) -> List[str]:
 
 EXTERNAL_HARDDRIVE = '/Volumes/TriveStorage/ml_data'
 ROOT = '/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes'
-YEAR = ARGS.year
-MAKE = ARGS.make
-MODEL = ARGS.model
-TRIM = ARGS.trim
-ENV = ARGS.env
-DIRECTORY_NAME = f'{YEAR}_{MAKE}_{MODEL}_{TRIM}'
+DIRECTORY_NAME = f'{ARGS.year}_{ARGS.make}_{ARGS.model}_{ARGS.trim}'
 
 # THIS NEEDS TO BE SWAPPED FOR USE ON LOCAL/EXTERNAL HARDDISK
-if ENV == 'local':
-    FILE_PATH = f'/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/flower_photos/{DIRECTORY_NAME}'
-elif ENV == 'external':
+if ARGS.env == 'local':
+    FILE_PATH = (
+        '/Users/jo/Desktop/data_science/'
+        'support_vector_machine/machine_learning_recipes/'
+        f'tf_files/flower_photos/{DIRECTORY_NAME}'
+    )
+elif ARGS.env == 'external':
     FILE_PATH = f'{EXTERNAL_HARDDRIVE}/{DIRECTORY_NAME}'
+else:
+    # Handle the case where a non-existent environment is attempted
+    sys.exit()
 
 for path in listdir(FILE_PATH):
     # make sure you don't check good images again

@@ -34,11 +34,15 @@ for path in listdir(ROOT):
     checked = len(list(filter(lambda f: 'good' in f, file_names)))
     unchecked = total - checked
     if unchecked > 0:
-        print(
-            f'{bcolors.WARNING}Unchecked directory{bcolors.ENDC}, total: {total}, checked: {checked}, unchecked: {unchecked}')
-        print(
-            f'{bcolors.OKGREEN}python garbageman.py {year} {make} {model} {trim} {ENV}{bcolors.ENDC} &')
-        print('=================================================')
+        unchecked_msg = (
+            f'{bcolors.WARNING}Unchecked directory{bcolors.ENDC}, '
+            f'total: {total}, checked: {checked}, unchecked: {unchecked}'
+        )
+        command_msg = (
+            f'{bcolors.FAIL}python garbageman.py '
+            f'{year} {make} {model} {trim} {ENV}{bcolors.ENDC} &'
+        )
+        print(f'{unchecked_msg}\n{command_msg}\n====================')
     elif total < 1000:
         print(f'{bcolors.OKBLUE}Less than 1,000 images ({total}): {path}{bcolors.ENDC}')
-        print('=================================================')
+        print('====================')
