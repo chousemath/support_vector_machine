@@ -16,13 +16,21 @@ def is_good(raw_output) -> List[str]:
     return 'good' in intermediate[0][1]
 
 
+EXTERNAL_HARDDRIVE = '/Volumes/TriveStorage/ml_data'
 ROOT = '/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes'
 YEAR = sys.argv[1]
 MAKE = sys.argv[2]
 MODEL = sys.argv[3]
 TRIM = sys.argv[4]
+ENV = sys.argv[5]
 DIRECTORY_NAME = f'{YEAR}_{MAKE}_{MODEL}_{TRIM}'
-FILE_PATH = f'/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/flower_photos/{DIRECTORY_NAME}'
+
+# THIS NEEDS TO BE SWAPPED FOR USE ON LOCAL/EXTERNAL HARDDISK
+if ENV == 'local':
+    FILE_PATH = f'/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/flower_photos/{DIRECTORY_NAME}'
+elif ENV == 'external':
+    FILE_PATH = f'{EXTERNAL_HARDDRIVE}/{DIRECTORY_NAME}'
+
 for path in listdir(FILE_PATH):
     # make sure you don't check good images again
     if 'good-' in path:
@@ -41,6 +49,7 @@ for path in listdir(FILE_PATH):
             # end up checking it again
             os.system(f'mv {FILE_PATH}/{path} {FILE_PATH}/good-{path}')
         else:
+            # THIS NEEDS TO BE SWAPPED FOR USE ON LOCAL/EXTERNAL HARDDISK
             os.system(f'rm {FILE_PATH}/{path}')
     except Exception as err:
         print(err)
