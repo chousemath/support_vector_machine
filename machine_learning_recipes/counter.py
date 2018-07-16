@@ -5,6 +5,8 @@
 import argparse
 from os import listdir
 from colors import bcolors
+from operator import itemgetter
+import csv
 
 PARSER = argparse.ArgumentParser()
 PARSER.add_argument(
@@ -19,6 +21,7 @@ if ENV == 'local':
 elif ENV == 'external':
     ROOT = '/Volumes/TriveStorage/ml_data'
 
+list_of_vehicles = []
 for path in listdir(ROOT):
     if path == '.DS_Store':
         continue
@@ -46,3 +49,23 @@ for path in listdir(ROOT):
     elif total < 1000:
         print(f'{bcolors.OKBLUE}Less than 1,000 images ({total}): {path}{bcolors.ENDC}')
         print('====================')
+    list_of_vehicles.append(
+        (year, make, model, trim, total, checked, unchecked))
+
+list_of_vehicles.sort(key=itemgetter(1, 2, 3))
+
+with open('count.csv', 'w', newline='') as f:
+    WRITER = csv.writer(f, delimiter=',', quotechar='|',
+                        quoting=csv.QUOTE_MINIMAL)
+    # WRITER.writerow(['MAKE', 'MODEL', 'TRIM', 'YEAR',
+    #                  'TOTAL', 'GOOD', 'UNCHECKED'])
+    for vehicle in list_of_vehicles:
+        WRITER.writerow([
+            vehicle[1],  # make of the vehicle
+            vehicle[2],  # model of the vehicle
+            vehicle[3],  # trim of the vehicle
+            vehicle[0],  # year of the vehicle
+            vehicle[4],  # total number of image files in directory
+            vehicle[5],  # total number of good image files in directory
+            vehicle[6]   # total number of unchecked image files in directory
+        ])
