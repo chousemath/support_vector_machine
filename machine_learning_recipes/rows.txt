@@ -1,0 +1,4357 @@
+
+        <tr>
+          <th scope="row">1</th>
+          <td>astonmartin</td>
+          <td>db2</td>
+          <td>base</td>
+          <td>1952</td>
+          <td>32</td>
+          <td>0</td>
+          <td>32</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">2</th>
+          <td>bugatti</td>
+          <td>veyron16dot4</td>
+          <td>base</td>
+          <td>2008</td>
+          <td>10</td>
+          <td>0</td>
+          <td>10</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">3</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gl</td>
+          <td>1998</td>
+          <td>5</td>
+          <td>0</td>
+          <td>5</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">4</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gl</td>
+          <td>2000</td>
+          <td>85</td>
+          <td>23</td>
+          <td>62</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">5</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gl</td>
+          <td>2001</td>
+          <td>35</td>
+          <td>0</td>
+          <td>35</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">6</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gl</td>
+          <td>2002</td>
+          <td>137</td>
+          <td>0</td>
+          <td>137</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">7</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gl</td>
+          <td>2003</td>
+          <td>198</td>
+          <td>55</td>
+          <td>143</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">8</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gl</td>
+          <td>2004</td>
+          <td>141</td>
+          <td>5</td>
+          <td>136</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">9</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gl</td>
+          <td>2011</td>
+          <td>299</td>
+          <td>50</td>
+          <td>249</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">10</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gls</td>
+          <td>2005</td>
+          <td>290</td>
+          <td>45</td>
+          <td>245</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">11</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gls</td>
+          <td>2006</td>
+          <td>308</td>
+          <td>0</td>
+          <td>308</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">12</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gls</td>
+          <td>2007</td>
+          <td>223</td>
+          <td>0</td>
+          <td>223</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">13</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gls</td>
+          <td>2008</td>
+          <td>379</td>
+          <td>0</td>
+          <td>379</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">14</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gls</td>
+          <td>2009</td>
+          <td>386</td>
+          <td>0</td>
+          <td>386</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">15</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gls</td>
+          <td>2010</td>
+          <td>523</td>
+          <td>0</td>
+          <td>523</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">16</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gls</td>
+          <td>2011</td>
+          <td>575</td>
+          <td>46</td>
+          <td>529</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">17</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gls</td>
+          <td>2012</td>
+          <td>956</td>
+          <td>0</td>
+          <td>956</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">18</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gls</td>
+          <td>2013</td>
+          <td>1745</td>
+          <td>0</td>
+          <td>1745</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">19</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gls</td>
+          <td>2014</td>
+          <td>1760</td>
+          <td>0</td>
+          <td>1760</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">20</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gls</td>
+          <td>2015</td>
+          <td>1747</td>
+          <td>0</td>
+          <td>1747</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">21</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gs</td>
+          <td>2007</td>
+          <td>40</td>
+          <td>0</td>
+          <td>40</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">22</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gs</td>
+          <td>2008</td>
+          <td>53</td>
+          <td>0</td>
+          <td>53</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">23</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gs</td>
+          <td>2009</td>
+          <td>77</td>
+          <td>0</td>
+          <td>77</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">24</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gs</td>
+          <td>2010</td>
+          <td>54</td>
+          <td>0</td>
+          <td>54</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">25</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gs</td>
+          <td>2011</td>
+          <td>38</td>
+          <td>0</td>
+          <td>38</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">26</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gs</td>
+          <td>2012</td>
+          <td>64</td>
+          <td>0</td>
+          <td>64</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">27</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gs</td>
+          <td>2013</td>
+          <td>152</td>
+          <td>0</td>
+          <td>152</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">28</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gs</td>
+          <td>2014</td>
+          <td>228</td>
+          <td>0</td>
+          <td>228</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">29</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gs</td>
+          <td>2015</td>
+          <td>269</td>
+          <td>0</td>
+          <td>269</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">30</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>gt</td>
+          <td>2005</td>
+          <td>0</td>
+          <td>0</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">31</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>l</td>
+          <td>2002</td>
+          <td>8</td>
+          <td>0</td>
+          <td>8</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">32</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>limited</td>
+          <td>2018</td>
+          <td>955</td>
+          <td>0</td>
+          <td>955</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">33</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>se</td>
+          <td>2007</td>
+          <td>29</td>
+          <td>0</td>
+          <td>29</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">34</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>se</td>
+          <td>2008</td>
+          <td>5</td>
+          <td>0</td>
+          <td>5</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">35</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>se</td>
+          <td>2009</td>
+          <td>24</td>
+          <td>0</td>
+          <td>24</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">36</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>se</td>
+          <td>2010</td>
+          <td>4</td>
+          <td>0</td>
+          <td>4</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">37</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>se</td>
+          <td>2011</td>
+          <td>16</td>
+          <td>0</td>
+          <td>16</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">38</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>se</td>
+          <td>2012</td>
+          <td>91</td>
+          <td>0</td>
+          <td>91</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">39</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>se</td>
+          <td>2013</td>
+          <td>96</td>
+          <td>0</td>
+          <td>96</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">40</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>se</td>
+          <td>2014</td>
+          <td>133</td>
+          <td>0</td>
+          <td>133</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">41</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>se</td>
+          <td>2016</td>
+          <td>2914</td>
+          <td>0</td>
+          <td>2914</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">42</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>se</td>
+          <td>2017</td>
+          <td>3017</td>
+          <td>0</td>
+          <td>3017</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">43</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>se</td>
+          <td>2018</td>
+          <td>2736</td>
+          <td>0</td>
+          <td>2736</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">44</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>sel</td>
+          <td>2018</td>
+          <td>16</td>
+          <td>0</td>
+          <td>16</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">45</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>sport</td>
+          <td>2015</td>
+          <td>43</td>
+          <td>43</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">46</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>sport</td>
+          <td>2016</td>
+          <td>12</td>
+          <td>0</td>
+          <td>12</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">47</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>sport</td>
+          <td>2017</td>
+          <td>60</td>
+          <td>0</td>
+          <td>60</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">48</th>
+          <td>hyundai</td>
+          <td>accent</td>
+          <td>valueedition</td>
+          <td>2017</td>
+          <td>200</td>
+          <td>0</td>
+          <td>200</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">49</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>base</td>
+          <td>2012</td>
+          <td>944</td>
+          <td>0</td>
+          <td>944</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">50</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>base</td>
+          <td>2013</td>
+          <td>2420</td>
+          <td>0</td>
+          <td>2420</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">51</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>base</td>
+          <td>2014</td>
+          <td>316</td>
+          <td>0</td>
+          <td>316</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">52</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>base</td>
+          <td>2015</td>
+          <td>792</td>
+          <td>0</td>
+          <td>792</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">53</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>base</td>
+          <td>2016</td>
+          <td>948</td>
+          <td>0</td>
+          <td>948</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">54</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>base</td>
+          <td>2017</td>
+          <td>505</td>
+          <td>505</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">55</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>gls</td>
+          <td>2007</td>
+          <td>13</td>
+          <td>9</td>
+          <td>4</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">56</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>gls</td>
+          <td>2008</td>
+          <td>20</td>
+          <td>8</td>
+          <td>12</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">57</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>gls</td>
+          <td>2009</td>
+          <td>42</td>
+          <td>0</td>
+          <td>42</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">58</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>gls</td>
+          <td>2010</td>
+          <td>19</td>
+          <td>0</td>
+          <td>19</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">59</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>gls</td>
+          <td>2011</td>
+          <td>143</td>
+          <td>0</td>
+          <td>143</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">60</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>gls</td>
+          <td>2013</td>
+          <td>24</td>
+          <td>0</td>
+          <td>24</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">61</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>limited</td>
+          <td>2006</td>
+          <td>76</td>
+          <td>0</td>
+          <td>76</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">62</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>limited</td>
+          <td>2007</td>
+          <td>95</td>
+          <td>0</td>
+          <td>95</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">63</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>limited</td>
+          <td>2008</td>
+          <td>74</td>
+          <td>0</td>
+          <td>74</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">64</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>limited</td>
+          <td>2009</td>
+          <td>56</td>
+          <td>0</td>
+          <td>56</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">65</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>limited</td>
+          <td>2010</td>
+          <td>7</td>
+          <td>0</td>
+          <td>7</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">66</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>limited</td>
+          <td>2011</td>
+          <td>30</td>
+          <td>0</td>
+          <td>30</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">67</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>limited</td>
+          <td>2012</td>
+          <td>0</td>
+          <td>0</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">68</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>limited</td>
+          <td>2013</td>
+          <td>0</td>
+          <td>0</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">69</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>limited</td>
+          <td>2014</td>
+          <td>257</td>
+          <td>0</td>
+          <td>257</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">70</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>limited</td>
+          <td>2015</td>
+          <td>166</td>
+          <td>0</td>
+          <td>166</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">71</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>limited</td>
+          <td>2016</td>
+          <td>644</td>
+          <td>0</td>
+          <td>644</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">72</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>limited</td>
+          <td>2017</td>
+          <td>1401</td>
+          <td>1108</td>
+          <td>293</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">73</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>se</td>
+          <td>2006</td>
+          <td>32</td>
+          <td>0</td>
+          <td>32</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">74</th>
+          <td>hyundai</td>
+          <td>azera</td>
+          <td>se</td>
+          <td>2007</td>
+          <td>13</td>
+          <td>0</td>
+          <td>13</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">75</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>base</td>
+          <td>2014</td>
+          <td>7</td>
+          <td>7</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">76</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>blue</td>
+          <td>2010</td>
+          <td>372</td>
+          <td>0</td>
+          <td>372</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">77</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>eco</td>
+          <td>2017</td>
+          <td>37</td>
+          <td>37</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">78</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>eco</td>
+          <td>2018</td>
+          <td>928</td>
+          <td>0</td>
+          <td>928</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">79</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gls</td>
+          <td>2000</td>
+          <td>48</td>
+          <td>0</td>
+          <td>48</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">80</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gls</td>
+          <td>2001</td>
+          <td>82</td>
+          <td>0</td>
+          <td>82</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">81</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gls</td>
+          <td>2002</td>
+          <td>242</td>
+          <td>0</td>
+          <td>242</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">82</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gls</td>
+          <td>2003</td>
+          <td>133</td>
+          <td>133</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">83</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gls</td>
+          <td>2004</td>
+          <td>120</td>
+          <td>120</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">84</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gls</td>
+          <td>2005</td>
+          <td>234</td>
+          <td>234</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">85</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gls</td>
+          <td>2006</td>
+          <td>327</td>
+          <td>327</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">86</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gls</td>
+          <td>2007</td>
+          <td>375</td>
+          <td>375</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">87</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gls</td>
+          <td>2008</td>
+          <td>1163</td>
+          <td>0</td>
+          <td>1163</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">88</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gls</td>
+          <td>2009</td>
+          <td>817</td>
+          <td>0</td>
+          <td>817</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">89</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gls</td>
+          <td>2010</td>
+          <td>2158</td>
+          <td>0</td>
+          <td>2158</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">90</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gls</td>
+          <td>2011</td>
+          <td>1936</td>
+          <td>0</td>
+          <td>1936</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">91</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gls</td>
+          <td>2012</td>
+          <td>2359</td>
+          <td>0</td>
+          <td>2359</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">92</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gls</td>
+          <td>2013</td>
+          <td>2723</td>
+          <td>0</td>
+          <td>2723</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">93</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gs</td>
+          <td>2013</td>
+          <td>1251</td>
+          <td>0</td>
+          <td>1251</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">94</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gt</td>
+          <td>2001</td>
+          <td>26</td>
+          <td>0</td>
+          <td>26</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">95</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gt</td>
+          <td>2002</td>
+          <td>28</td>
+          <td>0</td>
+          <td>28</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">96</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gt</td>
+          <td>2003</td>
+          <td>4</td>
+          <td>0</td>
+          <td>4</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">97</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gt</td>
+          <td>2004</td>
+          <td>70</td>
+          <td>0</td>
+          <td>70</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">98</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gt</td>
+          <td>2005</td>
+          <td>250</td>
+          <td>0</td>
+          <td>250</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">99</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>gt</td>
+          <td>2006</td>
+          <td>44</td>
+          <td>0</td>
+          <td>44</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">100</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>se</td>
+          <td>2007</td>
+          <td>17</td>
+          <td>17</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">101</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>se</td>
+          <td>2008</td>
+          <td>371</td>
+          <td>0</td>
+          <td>371</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">102</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>se</td>
+          <td>2009</td>
+          <td>292</td>
+          <td>0</td>
+          <td>292</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">103</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>se</td>
+          <td>2010</td>
+          <td>220</td>
+          <td>0</td>
+          <td>220</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">104</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>se</td>
+          <td>2013</td>
+          <td>577</td>
+          <td>71</td>
+          <td>506</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">105</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>se</td>
+          <td>2014</td>
+          <td>1848</td>
+          <td>440</td>
+          <td>1408</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">106</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>se</td>
+          <td>2015</td>
+          <td>828</td>
+          <td>828</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">107</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>se</td>
+          <td>2016</td>
+          <td>2729</td>
+          <td>75</td>
+          <td>2654</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">108</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>se</td>
+          <td>2017</td>
+          <td>2669</td>
+          <td>86</td>
+          <td>2583</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">109</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>se</td>
+          <td>2018</td>
+          <td>735</td>
+          <td>735</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">110</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>sel</td>
+          <td>2018</td>
+          <td>2158</td>
+          <td>0</td>
+          <td>2158</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">111</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>sport</td>
+          <td>2014</td>
+          <td>1407</td>
+          <td>0</td>
+          <td>1407</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">112</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>sport</td>
+          <td>2015</td>
+          <td>2210</td>
+          <td>0</td>
+          <td>2210</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">113</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>sport</td>
+          <td>2016</td>
+          <td>264</td>
+          <td>0</td>
+          <td>264</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">114</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>sport</td>
+          <td>2017</td>
+          <td>718</td>
+          <td>0</td>
+          <td>718</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">115</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>sport</td>
+          <td>2018</td>
+          <td>1544</td>
+          <td>271</td>
+          <td>1273</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">116</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>touring</td>
+          <td>2009</td>
+          <td>10</td>
+          <td>10</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">117</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>valueedition</td>
+          <td>2016</td>
+          <td>2896</td>
+          <td>0</td>
+          <td>2896</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">118</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>valueedition</td>
+          <td>2017</td>
+          <td>1829</td>
+          <td>0</td>
+          <td>1829</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">119</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>valueedition</td>
+          <td>2018</td>
+          <td>2162</td>
+          <td>0</td>
+          <td>2162</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">120</th>
+          <td>hyundai</td>
+          <td>elantra</td>
+          <td>xECOx</td>
+          <td>2018</td>
+          <td>1765</td>
+          <td>0</td>
+          <td>1765</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">121</th>
+          <td>hyundai</td>
+          <td>elantragt</td>
+          <td>base</td>
+          <td>2013</td>
+          <td>2619</td>
+          <td>0</td>
+          <td>2619</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">122</th>
+          <td>hyundai</td>
+          <td>elantragt</td>
+          <td>base</td>
+          <td>2014</td>
+          <td>2808</td>
+          <td>0</td>
+          <td>2808</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">123</th>
+          <td>hyundai</td>
+          <td>elantragt</td>
+          <td>base</td>
+          <td>2015</td>
+          <td>1974</td>
+          <td>0</td>
+          <td>1974</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">124</th>
+          <td>hyundai</td>
+          <td>elantragt</td>
+          <td>base</td>
+          <td>2016</td>
+          <td>926</td>
+          <td>926</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">125</th>
+          <td>hyundai</td>
+          <td>elantragt</td>
+          <td>base</td>
+          <td>2017</td>
+          <td>2716</td>
+          <td>0</td>
+          <td>2716</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">126</th>
+          <td>hyundai</td>
+          <td>elantragt</td>
+          <td>base</td>
+          <td>2018</td>
+          <td>2168</td>
+          <td>0</td>
+          <td>2168</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">127</th>
+          <td>hyundai</td>
+          <td>elantragt</td>
+          <td>sport</td>
+          <td>2018</td>
+          <td>2163</td>
+          <td>0</td>
+          <td>2163</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">128</th>
+          <td>hyundai</td>
+          <td>elantratouring</td>
+          <td>gls</td>
+          <td>2010</td>
+          <td>367</td>
+          <td>0</td>
+          <td>367</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">129</th>
+          <td>hyundai</td>
+          <td>elantratouring</td>
+          <td>gls</td>
+          <td>2011</td>
+          <td>312</td>
+          <td>0</td>
+          <td>312</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">130</th>
+          <td>hyundai</td>
+          <td>elantratouring</td>
+          <td>gls</td>
+          <td>2012</td>
+          <td>496</td>
+          <td>0</td>
+          <td>496</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">131</th>
+          <td>hyundai</td>
+          <td>elantratouring</td>
+          <td>se</td>
+          <td>2010</td>
+          <td>220</td>
+          <td>0</td>
+          <td>220</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">132</th>
+          <td>hyundai</td>
+          <td>elantratouring</td>
+          <td>se</td>
+          <td>2011</td>
+          <td>306</td>
+          <td>0</td>
+          <td>306</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">133</th>
+          <td>hyundai</td>
+          <td>elantratouring</td>
+          <td>se</td>
+          <td>2012</td>
+          <td>264</td>
+          <td>0</td>
+          <td>264</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">134</th>
+          <td>hyundai</td>
+          <td>entourage</td>
+          <td>se</td>
+          <td>2007</td>
+          <td>83</td>
+          <td>0</td>
+          <td>83</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">135</th>
+          <td>hyundai</td>
+          <td>equus</td>
+          <td>signature</td>
+          <td>2011</td>
+          <td>445</td>
+          <td>0</td>
+          <td>445</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">136</th>
+          <td>hyundai</td>
+          <td>equus</td>
+          <td>signature</td>
+          <td>2012</td>
+          <td>197</td>
+          <td>197</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">137</th>
+          <td>hyundai</td>
+          <td>equus</td>
+          <td>signature</td>
+          <td>2013</td>
+          <td>688</td>
+          <td>0</td>
+          <td>688</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">138</th>
+          <td>hyundai</td>
+          <td>equus</td>
+          <td>signature</td>
+          <td>2014</td>
+          <td>1060</td>
+          <td>29</td>
+          <td>1031</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">139</th>
+          <td>hyundai</td>
+          <td>equus</td>
+          <td>signature</td>
+          <td>2015</td>
+          <td>1726</td>
+          <td>0</td>
+          <td>1726</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">140</th>
+          <td>hyundai</td>
+          <td>equus</td>
+          <td>signature</td>
+          <td>2016</td>
+          <td>344</td>
+          <td>0</td>
+          <td>344</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">141</th>
+          <td>hyundai</td>
+          <td>equus</td>
+          <td>ultimate</td>
+          <td>2011</td>
+          <td>22</td>
+          <td>22</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">142</th>
+          <td>hyundai</td>
+          <td>equus</td>
+          <td>ultimate</td>
+          <td>2012</td>
+          <td>139</td>
+          <td>0</td>
+          <td>139</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">143</th>
+          <td>hyundai</td>
+          <td>equus</td>
+          <td>ultimate</td>
+          <td>2013</td>
+          <td>105</td>
+          <td>0</td>
+          <td>105</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">144</th>
+          <td>hyundai</td>
+          <td>equus</td>
+          <td>ultimate</td>
+          <td>2014</td>
+          <td>184</td>
+          <td>0</td>
+          <td>184</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">145</th>
+          <td>hyundai</td>
+          <td>equus</td>
+          <td>ultimate</td>
+          <td>2015</td>
+          <td>314</td>
+          <td>0</td>
+          <td>314</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">146</th>
+          <td>hyundai</td>
+          <td>equus</td>
+          <td>ultimate</td>
+          <td>2016</td>
+          <td>102</td>
+          <td>0</td>
+          <td>102</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">147</th>
+          <td>hyundai</td>
+          <td>genesis</td>
+          <td>2dot0t</td>
+          <td>2010</td>
+          <td>5</td>
+          <td>0</td>
+          <td>5</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">148</th>
+          <td>hyundai</td>
+          <td>genesis</td>
+          <td>3dot8</td>
+          <td>2009</td>
+          <td>1074</td>
+          <td>0</td>
+          <td>1074</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">149</th>
+          <td>hyundai</td>
+          <td>genesis</td>
+          <td>3dot8</td>
+          <td>2010</td>
+          <td>607</td>
+          <td>0</td>
+          <td>607</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">150</th>
+          <td>hyundai</td>
+          <td>genesis</td>
+          <td>3dot8</td>
+          <td>2011</td>
+          <td>1080</td>
+          <td>0</td>
+          <td>1080</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">151</th>
+          <td>hyundai</td>
+          <td>genesis</td>
+          <td>3dot8</td>
+          <td>2012</td>
+          <td>2449</td>
+          <td>0</td>
+          <td>2449</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">152</th>
+          <td>hyundai</td>
+          <td>genesis</td>
+          <td>3dot8</td>
+          <td>2013</td>
+          <td>2436</td>
+          <td>0</td>
+          <td>2436</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">153</th>
+          <td>hyundai</td>
+          <td>genesis</td>
+          <td>3dot8</td>
+          <td>2014</td>
+          <td>1493</td>
+          <td>0</td>
+          <td>1493</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">154</th>
+          <td>hyundai</td>
+          <td>genesis</td>
+          <td>3dot8</td>
+          <td>2015</td>
+          <td>3028</td>
+          <td>0</td>
+          <td>3028</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">155</th>
+          <td>hyundai</td>
+          <td>genesis</td>
+          <td>3dot8</td>
+          <td>2016</td>
+          <td>616</td>
+          <td>616</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">156</th>
+          <td>hyundai</td>
+          <td>genesis</td>
+          <td>3dot8track</td>
+          <td>2010</td>
+          <td>5</td>
+          <td>0</td>
+          <td>5</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">157</th>
+          <td>hyundai</td>
+          <td>genesis</td>
+          <td>4dot6</td>
+          <td>2009</td>
+          <td>510</td>
+          <td>0</td>
+          <td>510</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">158</th>
+          <td>hyundai</td>
+          <td>genesis</td>
+          <td>4dot6</td>
+          <td>2010</td>
+          <td>653</td>
+          <td>0</td>
+          <td>653</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">159</th>
+          <td>hyundai</td>
+          <td>genesis</td>
+          <td>4dot6</td>
+          <td>2011</td>
+          <td>840</td>
+          <td>0</td>
+          <td>840</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">160</th>
+          <td>hyundai</td>
+          <td>genesis</td>
+          <td>4dot6</td>
+          <td>2012</td>
+          <td>603</td>
+          <td>0</td>
+          <td>603</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">161</th>
+          <td>hyundai</td>
+          <td>genesis</td>
+          <td>5dot0rspec</td>
+          <td>2012</td>
+          <td>534</td>
+          <td>0</td>
+          <td>534</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">162</th>
+          <td>hyundai</td>
+          <td>genesis</td>
+          <td>5dot0rspec</td>
+          <td>2013</td>
+          <td>676</td>
+          <td>0</td>
+          <td>676</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">163</th>
+          <td>hyundai</td>
+          <td>genesis</td>
+          <td>5dot0rspec</td>
+          <td>2014</td>
+          <td>38</td>
+          <td>38</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">164</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dot0t</td>
+          <td>2010</td>
+          <td>339</td>
+          <td>0</td>
+          <td>339</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">165</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dot0t</td>
+          <td>2011</td>
+          <td>533</td>
+          <td>0</td>
+          <td>533</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">166</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dot0t</td>
+          <td>2012</td>
+          <td>384</td>
+          <td>0</td>
+          <td>384</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">167</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dot0t</td>
+          <td>2013</td>
+          <td>956</td>
+          <td>0</td>
+          <td>956</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">168</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dot0t</td>
+          <td>2014</td>
+          <td>444</td>
+          <td>0</td>
+          <td>444</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">169</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dott</td>
+          <td>2010</td>
+          <td>339</td>
+          <td>0</td>
+          <td>339</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">170</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dott</td>
+          <td>2011</td>
+          <td>189</td>
+          <td>189</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">171</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dott</td>
+          <td>2012</td>
+          <td>384</td>
+          <td>0</td>
+          <td>384</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">172</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dott</td>
+          <td>2013</td>
+          <td>958</td>
+          <td>0</td>
+          <td>958</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">173</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dott</td>
+          <td>2014</td>
+          <td>415</td>
+          <td>0</td>
+          <td>415</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">174</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dottpremium</td>
+          <td>2010</td>
+          <td>158</td>
+          <td>0</td>
+          <td>158</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">175</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dottpremium</td>
+          <td>2011</td>
+          <td>158</td>
+          <td>0</td>
+          <td>158</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">176</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dottpremium</td>
+          <td>2012</td>
+          <td>166</td>
+          <td>0</td>
+          <td>166</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">177</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dottpremium</td>
+          <td>2013</td>
+          <td>629</td>
+          <td>0</td>
+          <td>629</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">178</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dottpremium</td>
+          <td>2014</td>
+          <td>153</td>
+          <td>0</td>
+          <td>153</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">179</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dottrspec</td>
+          <td>2010</td>
+          <td>37</td>
+          <td>37</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">180</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dottrspec</td>
+          <td>2011</td>
+          <td>14</td>
+          <td>14</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">181</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dottrspec</td>
+          <td>2012</td>
+          <td>34</td>
+          <td>0</td>
+          <td>34</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">182</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dottrspec</td>
+          <td>2013</td>
+          <td>177</td>
+          <td>0</td>
+          <td>177</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">183</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dottrspec</td>
+          <td>2014</td>
+          <td>222</td>
+          <td>0</td>
+          <td>222</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">184</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>2dotttrack</td>
+          <td>2010</td>
+          <td>48</td>
+          <td>48</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">185</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>3dot8grandtouring</td>
+          <td>2010</td>
+          <td>121</td>
+          <td>0</td>
+          <td>121</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">186</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>3dot8grandtouring</td>
+          <td>2011</td>
+          <td>196</td>
+          <td>0</td>
+          <td>196</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">187</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>3dot8grandtouring</td>
+          <td>2012</td>
+          <td>135</td>
+          <td>0</td>
+          <td>135</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">188</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>3dot8grandtouring</td>
+          <td>2013</td>
+          <td>735</td>
+          <td>0</td>
+          <td>735</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">189</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>3dot8grandtouring</td>
+          <td>2014</td>
+          <td>192</td>
+          <td>0</td>
+          <td>192</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">190</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>3dot8rspec</td>
+          <td>2011</td>
+          <td>103</td>
+          <td>0</td>
+          <td>103</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">191</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>3dot8rspec</td>
+          <td>2012</td>
+          <td>94</td>
+          <td>0</td>
+          <td>94</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">192</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>3dot8rspec</td>
+          <td>2013</td>
+          <td>89</td>
+          <td>0</td>
+          <td>89</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">193</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>3dot8rspec</td>
+          <td>2014</td>
+          <td>73</td>
+          <td>0</td>
+          <td>73</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">194</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>3dot8rspec</td>
+          <td>2015</td>
+          <td>289</td>
+          <td>0</td>
+          <td>289</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">195</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>3dot8rspec</td>
+          <td>2016</td>
+          <td>233</td>
+          <td>0</td>
+          <td>233</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">196</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>3dot8track</td>
+          <td>2010</td>
+          <td>146</td>
+          <td>0</td>
+          <td>146</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">197</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>3dot8track</td>
+          <td>2011</td>
+          <td>142</td>
+          <td>1</td>
+          <td>141</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">198</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>3dot8track</td>
+          <td>2012</td>
+          <td>255</td>
+          <td>0</td>
+          <td>255</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">199</th>
+          <td>hyundai</td>
+          <td>genesiscoupe</td>
+          <td>3dot8track</td>
+          <td>2013</td>
+          <td>1644</td>
+          <td>0</td>
+          <td>1644</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">200</th>
+          <td>hyundai</td>
+          <td>ioniqev</td>
+          <td>electric</td>
+          <td>2018</td>
+          <td>62</td>
+          <td>0</td>
+          <td>62</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">201</th>
+          <td>hyundai</td>
+          <td>ioniqpluginhybrid</td>
+          <td>base</td>
+          <td>2018</td>
+          <td>67</td>
+          <td>0</td>
+          <td>67</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">202</th>
+          <td>hyundai</td>
+          <td>ioniqpluginhybrid</td>
+          <td>limited</td>
+          <td>2018</td>
+          <td>309</td>
+          <td>0</td>
+          <td>309</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">203</th>
+          <td>hyundai</td>
+          <td>kona</td>
+          <td>limited</td>
+          <td>2018</td>
+          <td>11622</td>
+          <td>0</td>
+          <td>11622</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">204</th>
+          <td>hyundai</td>
+          <td>kona</td>
+          <td>se</td>
+          <td>2018</td>
+          <td>9094</td>
+          <td>383</td>
+          <td>8711</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">205</th>
+          <td>hyundai</td>
+          <td>kona</td>
+          <td>sel</td>
+          <td>2018</td>
+          <td>17871</td>
+          <td>0</td>
+          <td>17871</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">206</th>
+          <td>hyundai</td>
+          <td>kona</td>
+          <td>ultimate</td>
+          <td>2018</td>
+          <td>3313</td>
+          <td>0</td>
+          <td>3313</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">207</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>gl</td>
+          <td>2001</td>
+          <td>14</td>
+          <td>0</td>
+          <td>14</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">208</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>gls</td>
+          <td>2002</td>
+          <td>66</td>
+          <td>66</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">209</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>gls</td>
+          <td>2003</td>
+          <td>107</td>
+          <td>107</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">210</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>gls</td>
+          <td>2004</td>
+          <td>434</td>
+          <td>0</td>
+          <td>434</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">211</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>gls</td>
+          <td>2005</td>
+          <td>1299</td>
+          <td>0</td>
+          <td>1299</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">212</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>gls</td>
+          <td>2006</td>
+          <td>138</td>
+          <td>137</td>
+          <td>1</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">213</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>gls</td>
+          <td>2007</td>
+          <td>758</td>
+          <td>758</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">214</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>gls</td>
+          <td>2008</td>
+          <td>2014</td>
+          <td>19</td>
+          <td>1995</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">215</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>gls</td>
+          <td>2009</td>
+          <td>1823</td>
+          <td>0</td>
+          <td>1823</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">216</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>gls</td>
+          <td>2010</td>
+          <td>2085</td>
+          <td>1348</td>
+          <td>737</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">217</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>gls</td>
+          <td>2011</td>
+          <td>2681</td>
+          <td>15</td>
+          <td>2666</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">218</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>gls</td>
+          <td>2012</td>
+          <td>2605</td>
+          <td>0</td>
+          <td>2605</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">219</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>gls</td>
+          <td>2013</td>
+          <td>1617</td>
+          <td>0</td>
+          <td>1617</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">220</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>gls</td>
+          <td>2014</td>
+          <td>3302</td>
+          <td>0</td>
+          <td>3302</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">221</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>gls</td>
+          <td>2015</td>
+          <td>8956</td>
+          <td>0</td>
+          <td>8956</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">222</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>limited</td>
+          <td>2006</td>
+          <td>74</td>
+          <td>0</td>
+          <td>74</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">223</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>limited</td>
+          <td>2007</td>
+          <td>1772</td>
+          <td>0</td>
+          <td>1772</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">224</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>limited</td>
+          <td>2008</td>
+          <td>1710</td>
+          <td>0</td>
+          <td>1710</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">225</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>limited</td>
+          <td>2009</td>
+          <td>1982</td>
+          <td>145</td>
+          <td>1837</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">226</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>limited</td>
+          <td>2010</td>
+          <td>963</td>
+          <td>0</td>
+          <td>963</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">227</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>limited</td>
+          <td>2011</td>
+          <td>1428</td>
+          <td>0</td>
+          <td>1428</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">228</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>limited</td>
+          <td>2012</td>
+          <td>2017</td>
+          <td>0</td>
+          <td>2017</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">229</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>limited</td>
+          <td>2013</td>
+          <td>293</td>
+          <td>292</td>
+          <td>1</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">230</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>limited</td>
+          <td>2014</td>
+          <td>1969</td>
+          <td>0</td>
+          <td>1969</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">231</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>limited</td>
+          <td>2015</td>
+          <td>2923</td>
+          <td>0</td>
+          <td>2923</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">232</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>limited</td>
+          <td>2016</td>
+          <td>1416</td>
+          <td>0</td>
+          <td>1416</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">233</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>limited</td>
+          <td>2017</td>
+          <td>133</td>
+          <td>133</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">234</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>limited</td>
+          <td>2018</td>
+          <td>233</td>
+          <td>233</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">235</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>lx</td>
+          <td>2001</td>
+          <td>8</td>
+          <td>8</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">236</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>lx</td>
+          <td>2002</td>
+          <td>37</td>
+          <td>37</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">237</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>lx</td>
+          <td>2003</td>
+          <td>14</td>
+          <td>14</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">238</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>lx</td>
+          <td>2004</td>
+          <td>25</td>
+          <td>25</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">239</th>
+          <td>hyundai</td>
+          <td>santafe</td>
+          <td>lx</td>
+          <td>2005</td>
+          <td>98</td>
+          <td>98</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">240</th>
+          <td>hyundai</td>
+          <td>santafesport</td>
+          <td>2dot0lturbo</td>
+          <td>2014</td>
+          <td>5696</td>
+          <td>0</td>
+          <td>5696</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">241</th>
+          <td>hyundai</td>
+          <td>santafesport</td>
+          <td>2dot0lturbo</td>
+          <td>2015</td>
+          <td>5349</td>
+          <td>0</td>
+          <td>5349</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">242</th>
+          <td>hyundai</td>
+          <td>santafesport</td>
+          <td>2dot0lturbo</td>
+          <td>2016</td>
+          <td>2608</td>
+          <td>0</td>
+          <td>2608</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">243</th>
+          <td>hyundai</td>
+          <td>santafesport</td>
+          <td>2dot0lturbo</td>
+          <td>2017</td>
+          <td>1791</td>
+          <td>0</td>
+          <td>1791</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">244</th>
+          <td>hyundai</td>
+          <td>santafesport</td>
+          <td>2dot0lturbo</td>
+          <td>2018</td>
+          <td>7848</td>
+          <td>0</td>
+          <td>7848</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">245</th>
+          <td>hyundai</td>
+          <td>santafesport</td>
+          <td>2dot4l</td>
+          <td>2017</td>
+          <td>21861</td>
+          <td>0</td>
+          <td>21861</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">246</th>
+          <td>hyundai</td>
+          <td>santafesport</td>
+          <td>2dot4l</td>
+          <td>2018</td>
+          <td>19301</td>
+          <td>0</td>
+          <td>19301</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">247</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>base</td>
+          <td>2016</td>
+          <td>2426</td>
+          <td>0</td>
+          <td>2426</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">248</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>base</td>
+          <td>2017</td>
+          <td>1083</td>
+          <td>1082</td>
+          <td>1</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">249</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>base</td>
+          <td>2018</td>
+          <td>11</td>
+          <td>0</td>
+          <td>11</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">250</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>eco</td>
+          <td>2015</td>
+          <td>1441</td>
+          <td>0</td>
+          <td>1441</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">251</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>eco</td>
+          <td>2016</td>
+          <td>276</td>
+          <td>0</td>
+          <td>276</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">252</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>eco</td>
+          <td>2017</td>
+          <td>146</td>
+          <td>146</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">253</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>eco</td>
+          <td>2018</td>
+          <td>155</td>
+          <td>154</td>
+          <td>1</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">254</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>gl</td>
+          <td>2005</td>
+          <td>112</td>
+          <td>112</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">255</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>gl</td>
+          <td>2006</td>
+          <td>122</td>
+          <td>122</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">256</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>gls</td>
+          <td>2000</td>
+          <td>12</td>
+          <td>12</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">257</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>gls</td>
+          <td>2001</td>
+          <td>7</td>
+          <td>7</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">258</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>gls</td>
+          <td>2002</td>
+          <td>54</td>
+          <td>54</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">259</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>gls</td>
+          <td>2003</td>
+          <td>125</td>
+          <td>125</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">260</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>gls</td>
+          <td>2004</td>
+          <td>155</td>
+          <td>155</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">261</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>gls</td>
+          <td>2005</td>
+          <td>261</td>
+          <td>0</td>
+          <td>261</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">262</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>gls</td>
+          <td>2006</td>
+          <td>1534</td>
+          <td>0</td>
+          <td>1534</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">263</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>gls</td>
+          <td>2007</td>
+          <td>863</td>
+          <td>0</td>
+          <td>863</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">264</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>gls</td>
+          <td>2008</td>
+          <td>1201</td>
+          <td>0</td>
+          <td>1201</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">265</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>gls</td>
+          <td>2009</td>
+          <td>2047</td>
+          <td>0</td>
+          <td>2047</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">266</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>gls</td>
+          <td>2010</td>
+          <td>1314</td>
+          <td>0</td>
+          <td>1314</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">267</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>gls</td>
+          <td>2011</td>
+          <td>905</td>
+          <td>905</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">268</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>gls</td>
+          <td>2012</td>
+          <td>2666</td>
+          <td>0</td>
+          <td>2666</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">269</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>gls</td>
+          <td>2013</td>
+          <td>2691</td>
+          <td>0</td>
+          <td>2691</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">270</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>gls</td>
+          <td>2014</td>
+          <td>2891</td>
+          <td>0</td>
+          <td>2891</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">271</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited</td>
+          <td>2007</td>
+          <td>380</td>
+          <td>0</td>
+          <td>380</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">272</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited</td>
+          <td>2008</td>
+          <td>530</td>
+          <td>0</td>
+          <td>530</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">273</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited</td>
+          <td>2009</td>
+          <td>1205</td>
+          <td>0</td>
+          <td>1205</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">274</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited</td>
+          <td>2010</td>
+          <td>129</td>
+          <td>0</td>
+          <td>129</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">275</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited</td>
+          <td>2011</td>
+          <td>2390</td>
+          <td>0</td>
+          <td>2390</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">276</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited</td>
+          <td>2012</td>
+          <td>1748</td>
+          <td>0</td>
+          <td>1748</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">277</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited</td>
+          <td>2013</td>
+          <td>808</td>
+          <td>808</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">278</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited</td>
+          <td>2014</td>
+          <td>2216</td>
+          <td>278</td>
+          <td>1938</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">279</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited</td>
+          <td>2015</td>
+          <td>909</td>
+          <td>908</td>
+          <td>1</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">280</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited</td>
+          <td>2016</td>
+          <td>1417</td>
+          <td>573</td>
+          <td>844</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">281</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited</td>
+          <td>2017</td>
+          <td>652</td>
+          <td>651</td>
+          <td>1</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">282</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited</td>
+          <td>2018</td>
+          <td>623</td>
+          <td>622</td>
+          <td>1</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">283</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited2dot0t</td>
+          <td>2011</td>
+          <td>392</td>
+          <td>0</td>
+          <td>392</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">284</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited2dot0t</td>
+          <td>2012</td>
+          <td>564</td>
+          <td>0</td>
+          <td>564</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">285</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited2dot0t</td>
+          <td>2013</td>
+          <td>1324</td>
+          <td>0</td>
+          <td>1324</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">286</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited2dot0t</td>
+          <td>2014</td>
+          <td>605</td>
+          <td>605</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">287</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited2dot0t</td>
+          <td>2015</td>
+          <td>2717</td>
+          <td>0</td>
+          <td>2717</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">288</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited2dot0t</td>
+          <td>2016</td>
+          <td>27</td>
+          <td>13</td>
+          <td>14</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">289</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited2dot0t</td>
+          <td>2017</td>
+          <td>69</td>
+          <td>68</td>
+          <td>1</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">290</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited2dot0t</td>
+          <td>2018</td>
+          <td>1981</td>
+          <td>22</td>
+          <td>1959</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">291</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited2dot0tplus</td>
+          <td>2011</td>
+          <td>383</td>
+          <td>0</td>
+          <td>383</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">292</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited2dot0tplus</td>
+          <td>2012</td>
+          <td>170</td>
+          <td>170</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">293</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited2dot0tplus</td>
+          <td>2013</td>
+          <td>556</td>
+          <td>0</td>
+          <td>556</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">294</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited2dot0tplus</td>
+          <td>2014</td>
+          <td>583</td>
+          <td>0</td>
+          <td>583</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">295</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited2dot0tplus</td>
+          <td>2015</td>
+          <td>548</td>
+          <td>0</td>
+          <td>548</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">296</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited2dot0tplus</td>
+          <td>2016</td>
+          <td>96</td>
+          <td>0</td>
+          <td>96</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">297</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited2dot0tplus</td>
+          <td>2017</td>
+          <td>239</td>
+          <td>0</td>
+          <td>239</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">298</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>limited2dot0tplus</td>
+          <td>2018</td>
+          <td>131</td>
+          <td>131</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">299</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>lx</td>
+          <td>2002</td>
+          <td>109</td>
+          <td>0</td>
+          <td>109</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">300</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>lx</td>
+          <td>2003</td>
+          <td>3</td>
+          <td>3</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">301</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>lx</td>
+          <td>2004</td>
+          <td>17</td>
+          <td>17</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">302</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>lx</td>
+          <td>2005</td>
+          <td>65</td>
+          <td>0</td>
+          <td>65</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">303</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>lx</td>
+          <td>2006</td>
+          <td>205</td>
+          <td>205</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">304</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>se</td>
+          <td>2007</td>
+          <td>226</td>
+          <td>226</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">305</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>se</td>
+          <td>2008</td>
+          <td>164</td>
+          <td>0</td>
+          <td>164</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">306</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>se</td>
+          <td>2009</td>
+          <td>293</td>
+          <td>0</td>
+          <td>293</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">307</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>se</td>
+          <td>2010</td>
+          <td>105</td>
+          <td>0</td>
+          <td>105</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">308</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>se</td>
+          <td>2011</td>
+          <td>2657</td>
+          <td>0</td>
+          <td>2657</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">309</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>se</td>
+          <td>2012</td>
+          <td>730</td>
+          <td>730</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">310</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>se</td>
+          <td>2013</td>
+          <td>2658</td>
+          <td>0</td>
+          <td>2658</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">311</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>se</td>
+          <td>2014</td>
+          <td>2357</td>
+          <td>0</td>
+          <td>2357</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">312</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>se</td>
+          <td>2015</td>
+          <td>2855</td>
+          <td>0</td>
+          <td>2855</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">313</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>se</td>
+          <td>2016</td>
+          <td>2757</td>
+          <td>0</td>
+          <td>2757</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">314</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>se</td>
+          <td>2017</td>
+          <td>1783</td>
+          <td>348</td>
+          <td>1435</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">315</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>se</td>
+          <td>2018</td>
+          <td>1959</td>
+          <td>22</td>
+          <td>1937</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">316</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>se2dot0t</td>
+          <td>2011</td>
+          <td>514</td>
+          <td>0</td>
+          <td>514</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">317</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>se2dot0t</td>
+          <td>2012</td>
+          <td>517</td>
+          <td>0</td>
+          <td>517</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">318</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>se2dot0t</td>
+          <td>2013</td>
+          <td>546</td>
+          <td>0</td>
+          <td>546</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">319</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>se2dot0t</td>
+          <td>2014</td>
+          <td>510</td>
+          <td>0</td>
+          <td>510</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">320</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>sel</td>
+          <td>2018</td>
+          <td>2123</td>
+          <td>24</td>
+          <td>2099</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">321</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>sport</td>
+          <td>2015</td>
+          <td>3037</td>
+          <td>0</td>
+          <td>3037</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">322</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>sport</td>
+          <td>2016</td>
+          <td>856</td>
+          <td>855</td>
+          <td>1</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">323</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>sport</td>
+          <td>2017</td>
+          <td>2892</td>
+          <td>0</td>
+          <td>2892</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">324</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>sport</td>
+          <td>2018</td>
+          <td>2013</td>
+          <td>61</td>
+          <td>1952</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">325</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>sport2dot0t</td>
+          <td>2015</td>
+          <td>3048</td>
+          <td>0</td>
+          <td>3048</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">326</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>sport2dot0t</td>
+          <td>2016</td>
+          <td>13</td>
+          <td>13</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">327</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>sport2dot0t</td>
+          <td>2017</td>
+          <td>249</td>
+          <td>249</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">328</th>
+          <td>hyundai</td>
+          <td>sonata</td>
+          <td>sport2dot0t</td>
+          <td>2018</td>
+          <td>1050</td>
+          <td>524</td>
+          <td>526</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">329</th>
+          <td>hyundai</td>
+          <td>sonatahybrid</td>
+          <td>base</td>
+          <td>2011</td>
+          <td>340</td>
+          <td>0</td>
+          <td>340</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">330</th>
+          <td>hyundai</td>
+          <td>sonatahybrid</td>
+          <td>base</td>
+          <td>2012</td>
+          <td>628</td>
+          <td>0</td>
+          <td>628</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">331</th>
+          <td>hyundai</td>
+          <td>sonatahybrid</td>
+          <td>base</td>
+          <td>2013</td>
+          <td>377</td>
+          <td>0</td>
+          <td>377</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">332</th>
+          <td>hyundai</td>
+          <td>sonatahybrid</td>
+          <td>base</td>
+          <td>2014</td>
+          <td>111</td>
+          <td>0</td>
+          <td>111</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">333</th>
+          <td>hyundai</td>
+          <td>sonatahybrid</td>
+          <td>base</td>
+          <td>2015</td>
+          <td>512</td>
+          <td>0</td>
+          <td>512</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">334</th>
+          <td>hyundai</td>
+          <td>sonatahybrid</td>
+          <td>base</td>
+          <td>2016</td>
+          <td>57</td>
+          <td>0</td>
+          <td>57</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">335</th>
+          <td>hyundai</td>
+          <td>sonatahybrid</td>
+          <td>limited</td>
+          <td>2013</td>
+          <td>551</td>
+          <td>0</td>
+          <td>551</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">336</th>
+          <td>hyundai</td>
+          <td>sonatahybrid</td>
+          <td>limited</td>
+          <td>2014</td>
+          <td>594</td>
+          <td>0</td>
+          <td>594</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">337</th>
+          <td>hyundai</td>
+          <td>sonatahybrid</td>
+          <td>limited</td>
+          <td>2015</td>
+          <td>528</td>
+          <td>0</td>
+          <td>528</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">338</th>
+          <td>hyundai</td>
+          <td>sonatahybrid</td>
+          <td>limited</td>
+          <td>2016</td>
+          <td>603</td>
+          <td>0</td>
+          <td>603</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">339</th>
+          <td>hyundai</td>
+          <td>sonatahybrid</td>
+          <td>limited</td>
+          <td>2017</td>
+          <td>624</td>
+          <td>0</td>
+          <td>624</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">340</th>
+          <td>hyundai</td>
+          <td>sonatahybrid</td>
+          <td>limited</td>
+          <td>2018</td>
+          <td>144</td>
+          <td>144</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">341</th>
+          <td>hyundai</td>
+          <td>sonatahybrid</td>
+          <td>se</td>
+          <td>2016</td>
+          <td>531</td>
+          <td>0</td>
+          <td>531</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">342</th>
+          <td>hyundai</td>
+          <td>sonatahybrid</td>
+          <td>se</td>
+          <td>2017</td>
+          <td>557</td>
+          <td>0</td>
+          <td>557</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">343</th>
+          <td>hyundai</td>
+          <td>sonatahybrid</td>
+          <td>se</td>
+          <td>2018</td>
+          <td>247</td>
+          <td>247</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">344</th>
+          <td>hyundai</td>
+          <td>tiburon</td>
+          <td>gs</td>
+          <td>2005</td>
+          <td>54</td>
+          <td>0</td>
+          <td>54</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">345</th>
+          <td>hyundai</td>
+          <td>tiburon</td>
+          <td>gs</td>
+          <td>2006</td>
+          <td>183</td>
+          <td>0</td>
+          <td>183</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">346</th>
+          <td>hyundai</td>
+          <td>tiburon</td>
+          <td>gs</td>
+          <td>2007</td>
+          <td>78</td>
+          <td>0</td>
+          <td>78</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">347</th>
+          <td>hyundai</td>
+          <td>tiburon</td>
+          <td>gs</td>
+          <td>2008</td>
+          <td>318</td>
+          <td>0</td>
+          <td>318</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">348</th>
+          <td>hyundai</td>
+          <td>tiburon</td>
+          <td>gt</td>
+          <td>2004</td>
+          <td>45</td>
+          <td>0</td>
+          <td>45</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">349</th>
+          <td>hyundai</td>
+          <td>tiburon</td>
+          <td>gt</td>
+          <td>2005</td>
+          <td>96</td>
+          <td>0</td>
+          <td>96</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">350</th>
+          <td>hyundai</td>
+          <td>tiburon</td>
+          <td>gt</td>
+          <td>2006</td>
+          <td>145</td>
+          <td>0</td>
+          <td>145</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">351</th>
+          <td>hyundai</td>
+          <td>tiburon</td>
+          <td>gt</td>
+          <td>2007</td>
+          <td>55</td>
+          <td>0</td>
+          <td>55</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">352</th>
+          <td>hyundai</td>
+          <td>tiburon</td>
+          <td>gt</td>
+          <td>2008</td>
+          <td>109</td>
+          <td>0</td>
+          <td>109</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">353</th>
+          <td>hyundai</td>
+          <td>tiburon</td>
+          <td>gtlimited</td>
+          <td>2008</td>
+          <td>22</td>
+          <td>0</td>
+          <td>22</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">354</th>
+          <td>hyundai</td>
+          <td>tiburon</td>
+          <td>se</td>
+          <td>2006</td>
+          <td>0</td>
+          <td>0</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">355</th>
+          <td>hyundai</td>
+          <td>tiburon</td>
+          <td>se</td>
+          <td>2007</td>
+          <td>23</td>
+          <td>0</td>
+          <td>23</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">356</th>
+          <td>hyundai</td>
+          <td>tiburon</td>
+          <td>se</td>
+          <td>2008</td>
+          <td>83</td>
+          <td>0</td>
+          <td>83</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">357</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>gl</td>
+          <td>2005</td>
+          <td>240</td>
+          <td>0</td>
+          <td>240</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">358</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>gl</td>
+          <td>2006</td>
+          <td>267</td>
+          <td>0</td>
+          <td>267</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">359</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>gl</td>
+          <td>2011</td>
+          <td>178</td>
+          <td>0</td>
+          <td>178</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">360</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>gl</td>
+          <td>2012</td>
+          <td>201</td>
+          <td>0</td>
+          <td>201</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">361</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>gl</td>
+          <td>2013</td>
+          <td>277</td>
+          <td>0</td>
+          <td>277</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">362</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>gls</td>
+          <td>2012</td>
+          <td>985</td>
+          <td>0</td>
+          <td>985</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">363</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>gls</td>
+          <td>2013</td>
+          <td>1122</td>
+          <td>0</td>
+          <td>1122</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">364</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>gls</td>
+          <td>2014</td>
+          <td>527</td>
+          <td>0</td>
+          <td>527</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">365</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>gls</td>
+          <td>2015</td>
+          <td>2382</td>
+          <td>0</td>
+          <td>2382</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">366</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>limited</td>
+          <td>2006</td>
+          <td>175</td>
+          <td>0</td>
+          <td>175</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">367</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>limited</td>
+          <td>2007</td>
+          <td>174</td>
+          <td>0</td>
+          <td>174</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">368</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>limited</td>
+          <td>2008</td>
+          <td>130</td>
+          <td>0</td>
+          <td>130</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">369</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>limited</td>
+          <td>2009</td>
+          <td>160</td>
+          <td>0</td>
+          <td>160</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">370</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>limited</td>
+          <td>2010</td>
+          <td>814</td>
+          <td>0</td>
+          <td>814</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">371</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>limited</td>
+          <td>2011</td>
+          <td>1635</td>
+          <td>0</td>
+          <td>1635</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">372</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>limited</td>
+          <td>2012</td>
+          <td>1698</td>
+          <td>0</td>
+          <td>1698</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">373</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>limited</td>
+          <td>2013</td>
+          <td>2728</td>
+          <td>0</td>
+          <td>2728</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">374</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>limited</td>
+          <td>2014</td>
+          <td>2681</td>
+          <td>0</td>
+          <td>2681</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">375</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>limited</td>
+          <td>2015</td>
+          <td>3066</td>
+          <td>0</td>
+          <td>3066</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">376</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>limited</td>
+          <td>2016</td>
+          <td>3955</td>
+          <td>0</td>
+          <td>3955</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">377</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>limited</td>
+          <td>2017</td>
+          <td>7653</td>
+          <td>0</td>
+          <td>7653</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">378</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>limited</td>
+          <td>2018</td>
+          <td>11674</td>
+          <td>3368</td>
+          <td>8306</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">379</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>lx</td>
+          <td>2005</td>
+          <td>67</td>
+          <td>0</td>
+          <td>67</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">380</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>night</td>
+          <td>2017</td>
+          <td>950</td>
+          <td>0</td>
+          <td>950</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">381</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>se</td>
+          <td>2007</td>
+          <td>257</td>
+          <td>0</td>
+          <td>257</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">382</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>se</td>
+          <td>2008</td>
+          <td>251</td>
+          <td>0</td>
+          <td>251</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">383</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>se</td>
+          <td>2009</td>
+          <td>219</td>
+          <td>0</td>
+          <td>219</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">384</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>se</td>
+          <td>2014</td>
+          <td>5014</td>
+          <td>0</td>
+          <td>5014</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">385</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>se</td>
+          <td>2015</td>
+          <td>6073</td>
+          <td>0</td>
+          <td>6073</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">386</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>se</td>
+          <td>2016</td>
+          <td>8854</td>
+          <td>0</td>
+          <td>8854</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">387</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>se</td>
+          <td>2017</td>
+          <td>20851</td>
+          <td>0</td>
+          <td>20851</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">388</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>se</td>
+          <td>2018</td>
+          <td>24176</td>
+          <td>611</td>
+          <td>23565</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">389</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>sel</td>
+          <td>2018</td>
+          <td>24016</td>
+          <td>653</td>
+          <td>23363</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">390</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>selplus</td>
+          <td>2018</td>
+          <td>26180</td>
+          <td>0</td>
+          <td>26180</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">391</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>seplus</td>
+          <td>2017</td>
+          <td>1431</td>
+          <td>0</td>
+          <td>1431</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">392</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>sport</td>
+          <td>2016</td>
+          <td>2395</td>
+          <td>0</td>
+          <td>2395</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">393</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>sport</td>
+          <td>2017</td>
+          <td>3389</td>
+          <td>0</td>
+          <td>3389</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">394</th>
+          <td>hyundai</td>
+          <td>tuscon</td>
+          <td>sport</td>
+          <td>2018</td>
+          <td>771</td>
+          <td>0</td>
+          <td>771</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">395</th>
+          <td>volkswagen</td>
+          <td>tiguan</td>
+          <td>4motion-auto-r-line</td>
+          <td>2014</td>
+          <td>124</td>
+          <td>124</td>
+          <td>0</td>
+        </tr>
+    
+        <tr>
+          <th scope="row">396</th>
+          <td>volkswagen</td>
+          <td>tiguan</td>
+          <td>4motion-auto-r-line</td>
+          <td>2015</td>
+          <td>252</td>
+          <td>252</td>
+          <td>0</td>
+        </tr>
+    

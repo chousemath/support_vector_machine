@@ -3,7 +3,7 @@
 # that directory has be completely cleaned of useless images,
 # and then upload that data to a remote database
 import argparse
-from os import listdir
+from os import listdir, system
 from colors import bcolors
 from operator import itemgetter
 import csv
@@ -20,6 +20,27 @@ if ENV == 'local':
     ROOT = '/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/flower_photos'
 elif ENV == 'external':
     ROOT = '/Volumes/TriveStorage/ml_data'
+
+
+def assemble_html_row(vehicle) -> str:
+    row_class = ''
+    if vehicle[6] == 0 and vehicle[5] >= 1000:
+        row_class = 'class="table-success"'
+    elif vehicle[6] == 0 and vehicle[5] < 1000:
+        row_class = 'class="table-warning"'
+
+    return f"""
+        <tr {row_class}>
+          <td>{vehicle[1]}</td>
+          <td>{vehicle[2]}</td>
+          <td>{vehicle[3]}</td>
+          <td>{vehicle[0]}</td>
+          <td>{vehicle[4]}</td>
+          <td>{vehicle[5]}</td>
+          <td>{vehicle[6]}</td>
+        </tr>
+    """.replace('\n', '')
+
 
 list_of_vehicles = []
 for path in listdir(ROOT):
@@ -54,6 +75,7 @@ for path in listdir(ROOT):
 
 list_of_vehicles.sort(key=itemgetter(1, 2, 3))
 
+html_string = ''
 with open('count.csv', 'w', newline='') as f:
     WRITER = csv.writer(f, delimiter=',', quotechar='|',
                         quoting=csv.QUOTE_MINIMAL)
@@ -69,3 +91,10 @@ with open('count.csv', 'w', newline='') as f:
             vehicle[5],  # total number of good image files in directory
             vehicle[6]   # total number of unchecked image files in directory
         ])
+        html_string += assemble_html_row(vehicle)
+
+filename = '../rows.js'
+system(f'rm {filename}')
+with open(filename, mode='a') as file:
+    file.write(
+        f'var html = \'{html_string}\'; document.getElementById(\'tableBody\').innerHTML = html;')

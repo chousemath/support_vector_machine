@@ -89,7 +89,7 @@ hyundai,elantra,gls,2009,817,0,817
 hyundai,elantra,gls,2010,2158,0,2158
 hyundai,elantra,gls,2011,1936,0,1936
 hyundai,elantra,gls,2012,2359,0,2359
-hyundai,elantra,gls,2013,2639,0,2639
+hyundai,elantra,gls,2013,2723,0,2723
 hyundai,elantra,gs,2013,1251,0,1251
 hyundai,elantra,gt,2001,26,0,26
 hyundai,elantra,gt,2002,28,0,28
@@ -386,5 +386,11 @@ hyundai,tuscon,se,2015,6073,0,6073
 hyundai,tuscon,se,2016,8854,0,8854
 hyundai,tuscon,se,2017,20851,0,20851
 hyundai,tuscon,se,2018,24176,611,23565
+hyundai,tuscon,sel,2018,24016,653,23363
+hyundai,tuscon,selplus,2018,26180,0,26180
+hyundai,tuscon,seplus,2017,1431,0,1431
+hyundai,tuscon,sport,2016,2395,0,2395
+hyundai,tuscon,sport,2017,3389,0,3389
+hyundai,tuscon,sport,2018,3570,0,3570
 volkswagen,tiguan,4motion-auto-r-line,2014,124,124,0
 volkswagen,tiguan,4motion-auto-r-line,2015,252,252,0
