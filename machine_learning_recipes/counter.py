@@ -43,6 +43,7 @@ def assemble_html_row(vehicle) -> str:
 
 
 list_of_vehicles = []
+unified_command = ''
 for path in listdir(ROOT):
     if path == '.DS_Store':
         continue
@@ -64,8 +65,9 @@ for path in listdir(ROOT):
         )
         command_msg = (
             f'{bcolors.FAIL}python garbageman.py '
-            f'{year} {make} {model} {trim} {ENV}{bcolors.ENDC} &'
+            f'{year} {make} {model} {trim} {ENV}{bcolors.ENDC}'
         )
+        unified_command += f'{command_msg} && '
         print(f'{unchecked_msg}\n{command_msg}\n====================')
     elif total < 1000:
         print(f'{bcolors.OKBLUE}Less than 1,000 images ({total}): {path}{bcolors.ENDC}')
@@ -98,3 +100,5 @@ system(f'rm {filename}')
 with open(filename, mode='a') as file:
     file.write(
         f'var html = \'{html_string}\'; document.getElementById(\'tableBody\').innerHTML = html;')
+
+print(unified_command[0:(len(unified_command) - 3)])
