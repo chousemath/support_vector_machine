@@ -8,7 +8,7 @@ hyundai,accent,gl,2003,123,123,0
 hyundai,accent,gl,2004,82,82,0
 hyundai,accent,gl,2011,299,50,249
 hyundai,accent,gls,2005,155,155,0
-hyundai,accent,gls,2006,308,0,308
+hyundai,accent,gls,2006,130,130,0
 hyundai,accent,gls,2007,223,0,223
 hyundai,accent,gls,2008,379,0,379
 hyundai,accent,gls,2009,386,0,386
@@ -58,7 +58,7 @@ hyundai,azera,gls,2009,42,0,42
 hyundai,azera,gls,2010,19,0,19
 hyundai,azera,gls,2011,143,0,143
 hyundai,azera,gls,2013,24,0,24
-hyundai,azera,limited,2006,76,0,76
+hyundai,azera,limited,2006,71,71,0
 hyundai,azera,limited,2007,95,0,95
 hyundai,azera,limited,2008,74,0,74
 hyundai,azera,limited,2009,56,0,56
@@ -70,7 +70,7 @@ hyundai,azera,limited,2014,257,0,257
 hyundai,azera,limited,2015,166,0,166
 hyundai,azera,limited,2016,644,0,644
 hyundai,azera,limited,2017,1401,1108,293
-hyundai,azera,se,2006,32,0,32
+hyundai,azera,se,2006,26,26,0
 hyundai,azera,se,2007,13,0,13
 hyundai,elantra,base,2014,7,7,0
 hyundai,elantra,blue,2010,372,0,372
@@ -96,7 +96,7 @@ hyundai,elantra,gt,2002,13,13,0
 hyundai,elantra,gt,2003,2,2,0
 hyundai,elantra,gt,2004,36,36,0
 hyundai,elantra,gt,2005,89,89,0
-hyundai,elantra,gt,2006,44,0,44
+hyundai,elantra,gt,2006,17,17,0
 hyundai,elantra,se,2007,17,17,0
 hyundai,elantra,se,2008,371,0,371
 hyundai,elantra,se,2009,292,0,292
@@ -219,7 +219,7 @@ hyundai,santafe,gls,2012,2605,0,2605
 hyundai,santafe,gls,2013,1617,0,1617
 hyundai,santafe,gls,2014,3302,0,3302
 hyundai,santafe,gls,2015,8956,0,8956
-hyundai,santafe,limited,2006,74,0,74
+hyundai,santafe,limited,2006,33,33,0
 hyundai,santafe,limited,2007,1772,0,1772
 hyundai,santafe,limited,2008,1710,0,1710
 hyundai,santafe,limited,2009,1982,145,1837
@@ -258,8 +258,8 @@ hyundai,sonata,gls,2001,7,7,0
 hyundai,sonata,gls,2002,54,54,0
 hyundai,sonata,gls,2003,125,125,0
 hyundai,sonata,gls,2004,155,155,0
-hyundai,sonata,gls,2005,251,4,247
-hyundai,sonata,gls,2006,1534,0,1534
+hyundai,sonata,gls,2005,104,104,0
+hyundai,sonata,gls,2006,1245,167,1078
 hyundai,sonata,gls,2007,863,0,863
 hyundai,sonata,gls,2008,1201,0,1201
 hyundai,sonata,gls,2009,2047,0,2047
@@ -299,7 +299,7 @@ hyundai,sonata,limited2dot0tplus,2018,131,131,0
 hyundai,sonata,lx,2002,42,42,0
 hyundai,sonata,lx,2003,3,3,0
 hyundai,sonata,lx,2004,17,17,0
-hyundai,sonata,lx,2005,65,0,65
+hyundai,sonata,lx,2005,26,26,0
 hyundai,sonata,lx,2006,205,205,0
 hyundai,sonata,se,2007,226,226,0
 hyundai,sonata,se,2008,164,0,164
@@ -341,12 +341,12 @@ hyundai,sonatahybrid,limited,2018,144,144,0
 hyundai,sonatahybrid,se,2016,531,0,531
 hyundai,sonatahybrid,se,2017,557,0,557
 hyundai,sonatahybrid,se,2018,247,247,0
-hyundai,tiburon,gs,2005,54,0,54
+hyundai,tiburon,gs,2005,25,25,0
 hyundai,tiburon,gs,2006,183,0,183
 hyundai,tiburon,gs,2007,78,0,78
 hyundai,tiburon,gs,2008,318,0,318
 hyundai,tiburon,gt,2004,23,23,0
-hyundai,tiburon,gt,2005,96,0,96
+hyundai,tiburon,gt,2005,40,40,0
 hyundai,tiburon,gt,2006,145,0,145
 hyundai,tiburon,gt,2007,55,0,55
 hyundai,tiburon,gt,2008,109,0,109
@@ -354,7 +354,7 @@ hyundai,tiburon,gtlimited,2008,22,0,22
 hyundai,tiburon,se,2006,0,0,0
 hyundai,tiburon,se,2007,23,0,23
 hyundai,tiburon,se,2008,83,0,83
-hyundai,tuscon,gl,2005,240,0,240
+hyundai,tuscon,gl,2005,89,89,0
 hyundai,tuscon,gl,2006,267,0,267
 hyundai,tuscon,gl,2011,178,0,178
 hyundai,tuscon,gl,2012,201,0,201
@@ -376,7 +376,7 @@ hyundai,tuscon,limited,2015,3066,0,3066
 hyundai,tuscon,limited,2016,3955,0,3955
 hyundai,tuscon,limited,2017,7653,0,7653
 hyundai,tuscon,limited,2018,11674,3368,8306
-hyundai,tuscon,lx,2005,67,0,67
+hyundai,tuscon,lx,2005,33,33,0
 hyundai,tuscon,night,2017,950,0,950
 hyundai,tuscon,se,2007,257,0,257
 hyundai,tuscon,se,2008,251,0,251
