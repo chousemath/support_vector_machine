@@ -12,7 +12,7 @@ hyundai,accent,gls,2006,260,260,0
 hyundai,accent,gls,2007,198,198,0
 hyundai,accent,gls,2008,390,390,0
 hyundai,accent,gls,2009,354,354,0
-hyundai,accent,gls,2010,523,0,523
+hyundai,accent,gls,2010,488,488,0
 hyundai,accent,gls,2011,621,92,529
 hyundai,accent,gls,2012,956,0,956
 hyundai,accent,gls,2013,1745,0,1745
@@ -21,7 +21,7 @@ hyundai,accent,gls,2015,1747,0,1747
 hyundai,accent,gs,2007,76,76,0
 hyundai,accent,gs,2008,92,92,0
 hyundai,accent,gs,2009,136,136,0
-hyundai,accent,gs,2010,54,0,54
+hyundai,accent,gs,2010,78,78,0
 hyundai,accent,gs,2011,38,0,38
 hyundai,accent,gs,2012,64,0,64
 hyundai,accent,gs,2013,152,0,152
@@ -33,7 +33,7 @@ hyundai,accent,limited,2018,955,0,955
 hyundai,accent,se,2007,56,56,0
 hyundai,accent,se,2008,8,8,0
 hyundai,accent,se,2009,48,48,0
-hyundai,accent,se,2010,4,0,4
+hyundai,accent,se,2010,8,8,0
 hyundai,accent,se,2011,16,0,16
 hyundai,accent,se,2012,91,0,91
 hyundai,accent,se,2013,96,0,96
@@ -55,14 +55,14 @@ hyundai,azera,base,2017,1010,1010,0
 hyundai,azera,gls,2007,26,26,0
 hyundai,azera,gls,2008,40,40,0
 hyundai,azera,gls,2009,30,30,0
-hyundai,azera,gls,2010,19,0,19
+hyundai,azera,gls,2010,16,16,0
 hyundai,azera,gls,2011,143,0,143
 hyundai,azera,gls,2013,24,0,24
 hyundai,azera,limited,2006,142,142,0
 hyundai,azera,limited,2007,172,172,0
 hyundai,azera,limited,2008,134,134,0
 hyundai,azera,limited,2009,94,94,0
-hyundai,azera,limited,2010,7,0,7
+hyundai,azera,limited,2010,12,12,0
 hyundai,azera,limited,2011,30,0,30
 hyundai,azera,limited,2012,0,0,0
 hyundai,azera,limited,2013,0,0,0
@@ -73,7 +73,7 @@ hyundai,azera,limited,2017,2509,2216,293
 hyundai,azera,se,2006,52,52,0
 hyundai,azera,se,2007,26,26,0
 hyundai,elantra,base,2014,14,14,0
-hyundai,elantra,blue,2010,372,0,372
+hyundai,elantra,blue,2010,330,330,0
 hyundai,elantra,eco,2017,74,74,0
 hyundai,elantra,eco,2018,928,0,928
 hyundai,elantra,gls,2000,48,48,0
@@ -86,7 +86,7 @@ hyundai,elantra,gls,2006,654,654,0
 hyundai,elantra,gls,2007,750,750,0
 hyundai,elantra,gls,2008,916,916,0
 hyundai,elantra,gls,2009,642,642,0
-hyundai,elantra,gls,2010,2158,0,2158
+hyundai,elantra,gls,2010,2158,6,2152
 hyundai,elantra,gls,2011,1936,0,1936
 hyundai,elantra,gls,2012,2359,0,2359
 hyundai,elantra,gls,2013,2723,0,2723
@@ -274,7 +274,7 @@ hyundai,sonata,gls,2005,208,208,0
 hyundai,sonata,gls,2006,1150,1150,0
 hyundai,sonata,gls,2007,668,668,0
 hyundai,sonata,gls,2008,950,948,2
-hyundai,sonata,gls,2009,1976,210,1766
+hyundai,sonata,gls,2009,1494,1494,0
 hyundai,sonata,gls,2010,1314,0,1314
 hyundai,sonata,gls,2011,1810,1810,0
 hyundai,sonata,gls,2012,2666,0,2666
@@ -282,7 +282,7 @@ hyundai,sonata,gls,2013,2691,0,2691
 hyundai,sonata,gls,2014,2891,0,2891
 hyundai,sonata,limited,2007,401,400,1
 hyundai,sonata,limited,2008,396,396,0
-hyundai,sonata,limited,2009,1205,0,1205
+hyundai,sonata,limited,2009,747,746,1
 hyundai,sonata,limited,2010,129,0,129
 hyundai,sonata,limited,2011,2390,0,2390
 hyundai,sonata,limited,2012,1748,0,1748
@@ -315,7 +315,7 @@ hyundai,sonata,lx,2005,52,52,0
 hyundai,sonata,lx,2006,410,410,0
 hyundai,sonata,se,2007,452,452,0
 hyundai,sonata,se,2008,90,90,0
-hyundai,sonata,se,2009,293,0,293
+hyundai,sonata,se,2009,224,224,0
 hyundai,sonata,se,2010,105,0,105
 hyundai,sonata,se,2011,2657,0,2657
 hyundai,sonata,se,2012,1460,1460,0
@@ -378,7 +378,7 @@ hyundai,tuscon,gls,2015,2382,0,2382
 hyundai,tuscon,limited,2006,132,132,0
 hyundai,tuscon,limited,2007,142,142,0
 hyundai,tuscon,limited,2008,106,106,0
-hyundai,tuscon,limited,2009,160,0,160
+hyundai,tuscon,limited,2009,114,114,0
 hyundai,tuscon,limited,2010,814,0,814
 hyundai,tuscon,limited,2011,1635,0,1635
 hyundai,tuscon,limited,2012,1698,0,1698
@@ -392,7 +392,7 @@ hyundai,tuscon,lx,2005,66,66,0
 hyundai,tuscon,night,2017,950,0,950
 hyundai,tuscon,se,2007,212,212,0
 hyundai,tuscon,se,2008,176,176,0
-hyundai,tuscon,se,2009,219,0,219
+hyundai,tuscon,se,2009,140,140,0
 hyundai,tuscon,se,2014,5014,0,5014
 hyundai,tuscon,se,2015,6073,0,6073
 hyundai,tuscon,se,2016,8854,0,8854
@@ -444,5 +444,10 @@ hyundai,xg350,l,2002,0,0,0
 hyundai,xg350,l,2003,0,0,0
 hyundai,xg350,l,2004,0,0,0
 hyundai,xg350,l,2005,0,0,0
+toyota,4runner,4wd,1996,4,4,0
+toyota,4runner,4wd,1997,6,6,0
+toyota,4runner,4wd,1998,46,46,0
+toyota,4runner,4wd,1999,16,16,0
+toyota,4runner,limited,2018,58007,0,58007
 volkswagen,tiguan,4motion-auto-r-line,2014,248,248,0
 volkswagen,tiguan,4motion-auto-r-line,2015,504,504,0
