@@ -126,7 +126,7 @@ hyundai,elantra,sport,2016,264,0,264
 hyundai,elantra,sport,2017,718,0,718
 hyundai,elantra,sport,2018,1815,542,1273
 hyundai,elantra,touring,2009,20,20,0
-hyundai,elantra,valueedition,2016,2896,0,2896
+hyundai,elantra,valueedition,2016,2794,220,2574
 hyundai,elantra,valueedition,2017,1829,0,1829
 hyundai,elantra,valueedition,2018,2162,0,2162
 hyundai,elantra,xECOx,2018,1765,0,1765
@@ -211,8 +211,8 @@ hyundai,genesiscoupe,3dot8track,2012,255,0,255
 hyundai,genesiscoupe,3dot8track,2013,1644,0,1644
 hyundai,ioniqev,electric,2018,62,0,62
 hyundai,ioniqpluginhybrid,base,2018,70,70,0
-hyundai,ioniqpluginhybrid,limited,2018,309,0,309
-hyundai,kona,limited,2018,11622,0,11622
+hyundai,ioniqpluginhybrid,limited,2018,248,248,0
+hyundai,kona,limited,2018,11618,16,11602
 hyundai,kona,se,2018,9477,766,8711
 hyundai,kona,sel,2018,17871,0,17871
 hyundai,kona,ultimate,2018,3313,0,3313
@@ -397,7 +397,7 @@ hyundai,tuscon,se,2014,5014,0,5014
 hyundai,tuscon,se,2015,6073,0,6073
 hyundai,tuscon,se,2016,8854,0,8854
 hyundai,tuscon,se,2017,20851,0,20851
-hyundai,tuscon,se,2018,24787,1222,23565
+hyundai,tuscon,se,2018,24729,1492,23237
 hyundai,tuscon,sel,2018,24231,2676,21555
 hyundai,tuscon,selplus,2018,26180,0,26180
 hyundai,tuscon,seplus,2017,1431,0,1431
