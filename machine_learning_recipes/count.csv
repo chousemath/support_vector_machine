@@ -50,7 +50,7 @@ hyundai,azera,base,2012,944,0,944
 hyundai,azera,base,2013,2420,0,2420
 hyundai,azera,base,2014,316,0,316
 hyundai,azera,base,2015,792,0,792
-hyundai,azera,base,2016,948,0,948
+hyundai,azera,base,2016,476,476,0
 hyundai,azera,base,2017,1010,1010,0
 hyundai,azera,gls,2007,26,26,0
 hyundai,azera,gls,2008,40,40,0
@@ -68,7 +68,7 @@ hyundai,azera,limited,2012,0,0,0
 hyundai,azera,limited,2013,0,0,0
 hyundai,azera,limited,2014,257,0,257
 hyundai,azera,limited,2015,166,0,166
-hyundai,azera,limited,2016,644,0,644
+hyundai,azera,limited,2016,464,464,0
 hyundai,azera,limited,2017,2509,2216,293
 hyundai,azera,se,2006,52,52,0
 hyundai,azera,se,2007,26,26,0
@@ -116,9 +116,9 @@ hyundai,elantra,se,2010,220,0,220
 hyundai,elantra,se,2013,648,142,506
 hyundai,elantra,se,2014,2288,880,1408
 hyundai,elantra,se,2015,1656,1656,0
-hyundai,elantra,se,2016,2804,150,2654
+hyundai,elantra,se,2016,2720,392,2328
 hyundai,elantra,se,2017,2755,172,2583
-hyundai,elantra,se,2018,1470,1470,0
+hyundai,elantra,se,2018,7315,1470,5845
 hyundai,elantra,sel,2018,2158,0,2158
 hyundai,elantra,sport,2014,1407,0,1407
 hyundai,elantra,sport,2015,2210,0,2210
