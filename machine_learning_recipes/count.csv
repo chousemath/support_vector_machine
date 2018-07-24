@@ -40,7 +40,7 @@ hyundai,accent,se,2013,96,0,96
 hyundai,accent,se,2014,133,0,133
 hyundai,accent,se,2016,2914,0,2914
 hyundai,accent,se,2017,3017,0,3017
-hyundai,accent,se,2018,2736,0,2736
+hyundai,accent,se,2018,3657,2216,1441
 hyundai,accent,sel,2018,16,0,16
 hyundai,accent,sport,2015,86,86,0
 hyundai,accent,sport,2016,12,0,12
@@ -123,11 +123,11 @@ hyundai,elantra,sel,2018,2158,0,2158
 hyundai,elantra,sport,2014,1407,0,1407
 hyundai,elantra,sport,2015,2210,0,2210
 hyundai,elantra,sport,2016,264,0,264
-hyundai,elantra,sport,2017,718,0,718
+hyundai,elantra,sport,2017,464,464,0
 hyundai,elantra,sport,2018,1815,542,1273
 hyundai,elantra,touring,2009,20,20,0
 hyundai,elantra,valueedition,2016,2794,220,2574
-hyundai,elantra,valueedition,2017,1829,0,1829
+hyundai,elantra,valueedition,2017,1626,376,1250
 hyundai,elantra,valueedition,2018,2162,0,2162
 hyundai,elantra,xECOx,2018,1765,0,1765
 hyundai,elantragt,base,2013,2619,0,2619
@@ -255,7 +255,7 @@ hyundai,santafesport,2dot0lturbo,2016,2608,0,2608
 hyundai,santafesport,2dot0lturbo,2017,1791,0,1791
 hyundai,santafesport,2dot0lturbo,2018,7798,140,7658
 hyundai,santafesport,2dot4l,2017,21861,0,21861
-hyundai,santafesport,2dot4l,2018,19264,76,19188
+hyundai,santafesport,2dot4l,2018,18745,850,17895
 hyundai,sonata,base,2016,2426,0,2426
 hyundai,sonata,base,2017,2165,2164,1
 hyundai,sonata,base,2018,21,20,1
@@ -304,7 +304,7 @@ hyundai,sonata,limited2dot0tplus,2011,383,0,383
 hyundai,sonata,limited2dot0tplus,2012,340,340,0
 hyundai,sonata,limited2dot0tplus,2013,556,0,556
 hyundai,sonata,limited2dot0tplus,2014,583,0,583
-hyundai,sonata,limited2dot0tplus,2015,548,0,548
+hyundai,sonata,limited2dot0tplus,2015,300,300,0
 hyundai,sonata,limited2dot0tplus,2016,96,0,96
 hyundai,sonata,limited2dot0tplus,2017,136,136,0
 hyundai,sonata,limited2dot0tplus,2018,262,262,0
@@ -321,7 +321,7 @@ hyundai,sonata,se,2011,2657,0,2657
 hyundai,sonata,se,2012,1460,1460,0
 hyundai,sonata,se,2013,2658,0,2658
 hyundai,sonata,se,2014,2357,0,2357
-hyundai,sonata,se,2015,2855,0,2855
+hyundai,sonata,se,2015,2610,504,2106
 hyundai,sonata,se,2016,2757,0,2757
 hyundai,sonata,se,2017,2131,696,1435
 hyundai,sonata,se,2018,1981,44,1937
