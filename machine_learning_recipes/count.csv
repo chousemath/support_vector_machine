@@ -14,7 +14,7 @@ hyundai,accent,gls,2008,390,390,0
 hyundai,accent,gls,2009,354,354,0
 hyundai,accent,gls,2010,488,488,0
 hyundai,accent,gls,2011,584,584,0
-hyundai,accent,gls,2012,574,574,0
+hyundai,accent,gls,2012,1148,1148,0
 hyundai,accent,gls,2013,1745,0,1745
 hyundai,accent,gls,2014,1760,0,1760
 hyundai,accent,gls,2015,1747,0,1747
@@ -23,7 +23,7 @@ hyundai,accent,gs,2008,92,92,0
 hyundai,accent,gs,2009,136,136,0
 hyundai,accent,gs,2010,78,78,0
 hyundai,accent,gs,2011,64,64,0
-hyundai,accent,gs,2012,57,57,0
+hyundai,accent,gs,2012,114,114,0
 hyundai,accent,gs,2013,152,0,152
 hyundai,accent,gs,2014,228,0,228
 hyundai,accent,gs,2015,269,0,269
@@ -35,7 +35,7 @@ hyundai,accent,se,2008,8,8,0
 hyundai,accent,se,2009,48,48,0
 hyundai,accent,se,2010,8,8,0
 hyundai,accent,se,2011,32,32,0
-hyundai,accent,se,2012,80,80,0
+hyundai,accent,se,2012,160,160,0
 hyundai,accent,se,2013,96,0,96
 hyundai,accent,se,2014,133,0,133
 hyundai,accent,se,2016,2914,0,2914
@@ -46,7 +46,7 @@ hyundai,accent,sport,2015,86,86,0
 hyundai,accent,sport,2016,12,0,12
 hyundai,accent,sport,2017,106,106,0
 hyundai,accent,valueedition,2017,200,0,200
-hyundai,azera,base,2012,281,281,0
+hyundai,azera,base,2012,562,562,0
 hyundai,azera,base,2013,2420,0,2420
 hyundai,azera,base,2014,316,0,316
 hyundai,azera,base,2015,792,0,792
@@ -88,7 +88,7 @@ hyundai,elantra,gls,2008,916,916,0
 hyundai,elantra,gls,2009,642,642,0
 hyundai,elantra,gls,2010,1614,1614,0
 hyundai,elantra,gls,2011,1388,1388,0
-hyundai,elantra,gls,2012,2167,106,2061
+hyundai,elantra,gls,2012,1680,1680,0
 hyundai,elantra,gls,2013,2723,0,2723
 hyundai,elantra,gs,2013,1251,0,1251
 hyundai,elantra,gt,2001,32,32,0
@@ -139,10 +139,10 @@ hyundai,elantragt,base,2018,2168,0,2168
 hyundai,elantragt,sport,2018,2163,0,2163
 hyundai,elantratouring,gls,2010,326,326,0
 hyundai,elantratouring,gls,2011,246,246,0
-hyundai,elantratouring,gls,2012,496,0,496
+hyundai,elantratouring,gls,2012,388,388,0
 hyundai,elantratouring,se,2010,146,146,0
 hyundai,elantratouring,se,2011,224,224,0
-hyundai,elantratouring,se,2012,264,0,264
+hyundai,elantratouring,se,2012,196,196,0
 hyundai,entourage,se,2007,70,70,0
 hyundai,equus,signature,2011,264,264,0
 hyundai,equus,signature,2012,394,394,0
@@ -151,7 +151,7 @@ hyundai,equus,signature,2014,1089,58,1031
 hyundai,equus,signature,2015,1726,0,1726
 hyundai,equus,signature,2016,344,0,344
 hyundai,equus,ultimate,2011,44,44,0
-hyundai,equus,ultimate,2012,139,0,139
+hyundai,equus,ultimate,2012,98,98,0
 hyundai,equus,ultimate,2013,105,0,105
 hyundai,equus,ultimate,2014,184,0,184
 hyundai,equus,ultimate,2015,314,0,314
@@ -160,7 +160,7 @@ hyundai,genesis,2dot0t,2010,6,6,0
 hyundai,genesis,3dot8,2009,740,740,0
 hyundai,genesis,3dot8,2010,386,386,0
 hyundai,genesis,3dot8,2011,686,686,0
-hyundai,genesis,3dot8,2012,2449,0,2449
+hyundai,genesis,3dot8,2012,2348,270,2078
 hyundai,genesis,3dot8,2013,2436,0,2436
 hyundai,genesis,3dot8,2014,1493,0,1493
 hyundai,genesis,3dot8,2015,3028,0,3028
@@ -256,7 +256,7 @@ hyundai,santafesport,2dot0lturbo,2017,1791,0,1791
 hyundai,santafesport,2dot0lturbo,2018,7798,140,7658
 hyundai,santafesport,2dot4l,2017,21861,0,21861
 hyundai,santafesport,2dot4l,2018,18491,1282,17209
-hyundai,sonata,base,2016,2426,0,2426
+hyundai,sonata,base,2016,2299,1116,1183
 hyundai,sonata,base,2017,2165,2164,1
 hyundai,sonata,base,2018,21,20,1
 hyundai,sonata,eco,2015,1441,0,1441
@@ -317,19 +317,19 @@ hyundai,sonata,se,2007,452,452,0
 hyundai,sonata,se,2008,90,90,0
 hyundai,sonata,se,2009,224,224,0
 hyundai,sonata,se,2010,68,68,0
-hyundai,sonata,se,2011,1419,1419,0
+hyundai,sonata,se,2011,1708,1708,0
 hyundai,sonata,se,2012,1460,1460,0
 hyundai,sonata,se,2013,2658,0,2658
 hyundai,sonata,se,2014,2357,0,2357
 hyundai,sonata,se,2015,2402,980,1422
 hyundai,sonata,se,2016,2054,2054,0
 hyundai,sonata,se,2017,2131,696,1435
-hyundai,sonata,se,2018,1377,1377,0
-hyundai,sonata,se2dot0t,2011,157,157,0
+hyundai,sonata,se,2018,1480,1480,0
+hyundai,sonata,se2dot0t,2011,314,314,0
 hyundai,sonata,se2dot0t,2012,517,0,517
 hyundai,sonata,se2dot0t,2013,546,0,546
 hyundai,sonata,se2dot0t,2014,510,0,510
-hyundai,sonata,sel,2018,1311,596,715
+hyundai,sonata,sel,2018,1729,1014,715
 hyundai,sonata,sport,2015,3037,0,3037
 hyundai,sonata,sport,2016,1711,1710,1
 hyundai,sonata,sport,2017,2892,0,2892
@@ -338,7 +338,7 @@ hyundai,sonata,sport2dot0t,2015,3048,0,3048
 hyundai,sonata,sport2dot0t,2016,26,26,0
 hyundai,sonata,sport2dot0t,2017,498,498,0
 hyundai,sonata,sport2dot0t,2018,1574,1048,526
-hyundai,sonatahybrid,base,2011,99,99,0
+hyundai,sonatahybrid,base,2011,198,198,0
 hyundai,sonatahybrid,base,2012,628,0,628
 hyundai,sonatahybrid,base,2013,377,0,377
 hyundai,sonatahybrid,base,2014,111,0,111
@@ -368,7 +368,7 @@ hyundai,tiburon,se,2007,18,18,0
 hyundai,tiburon,se,2008,62,62,0
 hyundai,tuscon,gl,2005,178,178,0
 hyundai,tuscon,gl,2006,226,226,0
-hyundai,tuscon,gl,2011,70,70,0
+hyundai,tuscon,gl,2011,140,140,0
 hyundai,tuscon,gl,2012,201,0,201
 hyundai,tuscon,gl,2013,186,186,0
 hyundai,tuscon,gls,2012,985,0,985
@@ -380,7 +380,7 @@ hyundai,tuscon,limited,2007,142,142,0
 hyundai,tuscon,limited,2008,106,106,0
 hyundai,tuscon,limited,2009,114,114,0
 hyundai,tuscon,limited,2010,522,522,0
-hyundai,tuscon,limited,2011,541,540,1
+hyundai,tuscon,limited,2011,1081,1080,1
 hyundai,tuscon,limited,2012,1698,0,1698
 hyundai,tuscon,limited,2013,2341,756,1585
 hyundai,tuscon,limited,2014,2681,0,2681
@@ -397,10 +397,10 @@ hyundai,tuscon,se,2014,5014,0,5014
 hyundai,tuscon,se,2015,6073,0,6073
 hyundai,tuscon,se,2016,8854,0,8854
 hyundai,tuscon,se,2017,20851,0,20851
-hyundai,tuscon,se,2018,24729,1492,23237
+hyundai,tuscon,se,2018,24229,3074,21155
 hyundai,tuscon,sel,2018,24231,2676,21555
 hyundai,tuscon,selplus,2018,26127,140,25987
-hyundai,tuscon,seplus,2017,444,444,0
+hyundai,tuscon,seplus,2017,888,888,0
 hyundai,tuscon,sport,2016,2395,0,2395
 hyundai,tuscon,sport,2017,2226,2226,0
 hyundai,tuscon,sport,2018,11658,0,11658
@@ -411,7 +411,7 @@ hyundai,veloster,base,2013,4046,0,4046
 hyundai,veloster,base,2014,2586,0,2586
 hyundai,veloster,base,2015,2567,0,2567
 hyundai,veloster,base,2016,4035,0,4035
-hyundai,veloster,base,2017,3630,166,3464
+hyundai,veloster,base,2017,3636,172,3464
 hyundai,veloster,base,2019,4655,0,4655
 hyundai,veloster,remix,2013,568,0,568
 hyundai,veloster,turbo,2012,0,0,0
