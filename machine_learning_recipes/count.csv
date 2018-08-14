@@ -89,7 +89,7 @@ hyundai,elantra,gls,2009,642,642,0
 hyundai,elantra,gls,2010,1614,1614,0
 hyundai,elantra,gls,2011,1388,1388,0
 hyundai,elantra,gls,2012,1680,1680,0
-hyundai,elantra,gls,2013,2149,1218,931
+hyundai,elantra,gls,2013,1895,1820,75
 hyundai,elantra,gs,2013,1251,0,1251
 hyundai,elantra,gt,2001,32,32,0
 hyundai,elantra,gt,2002,26,26,0
@@ -117,14 +117,14 @@ hyundai,elantra,se,2013,648,142,506
 hyundai,elantra,se,2014,2288,880,1408
 hyundai,elantra,se,2015,1656,1656,0
 hyundai,elantra,se,2016,2413,898,1515
-hyundai,elantra,se,2017,9691,6128,3563
+hyundai,elantra,se,2017,9711,6224,3487
 hyundai,elantra,se,2018,8106,3366,4740
 hyundai,elantra,sel,2018,2158,0,2158
 hyundai,elantra,sport,2014,1407,0,1407
 hyundai,elantra,sport,2015,2210,0,2210
 hyundai,elantra,sport,2016,264,0,264
 hyundai,elantra,sport,2017,464,464,0
-hyundai,elantra,sport,2018,1815,542,1273
+hyundai,elantra,sport,2018,1771,584,1187
 hyundai,elantra,touring,2009,20,20,0
 hyundai,elantra,valueedition,2016,1639,1638,1
 hyundai,elantra,valueedition,2017,1350,786,564
@@ -259,7 +259,7 @@ hyundai,santafesport,2dot4l,2018,18491,1282,17209
 hyundai,sonata,base,2016,2243,2150,93
 hyundai,sonata,base,2017,2165,2164,1
 hyundai,sonata,base,2018,21,20,1
-hyundai,sonata,eco,2015,1441,0,1441
+hyundai,sonata,eco,2015,1416,58,1358
 hyundai,sonata,eco,2016,276,0,276
 hyundai,sonata,eco,2017,292,292,0
 hyundai,sonata,eco,2018,309,308,1
@@ -386,8 +386,8 @@ hyundai,tuscon,limited,2013,2341,756,1585
 hyundai,tuscon,limited,2014,2681,0,2681
 hyundai,tuscon,limited,2015,3066,0,3066
 hyundai,tuscon,limited,2016,3387,890,2497
-hyundai,tuscon,limited,2017,7653,0,7653
-hyundai,tuscon,limited,2018,14337,8200,6137
+hyundai,tuscon,limited,2017,6429,3768,2661
+hyundai,tuscon,limited,2018,14296,8246,6050
 hyundai,tuscon,lx,2005,66,66,0
 hyundai,tuscon,night,2017,630,630,0
 hyundai,tuscon,se,2007,212,212,0
