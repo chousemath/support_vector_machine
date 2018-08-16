@@ -78,12 +78,14 @@ for path in listdir(ROOT):
 list_of_vehicles.sort(key=itemgetter(1, 2, 3))
 
 html_string = ''
+total_count = 0
 with open('count.csv', 'w', newline='') as f:
     WRITER = csv.writer(f, delimiter=',', quotechar='|',
                         quoting=csv.QUOTE_MINIMAL)
     # WRITER.writerow(['MAKE', 'MODEL', 'TRIM', 'YEAR',
     #                  'TOTAL', 'GOOD', 'UNCHECKED'])
     for vehicle in list_of_vehicles:
+        total_count += vehicle[4]
         WRITER.writerow([
             vehicle[1],  # make of the vehicle
             vehicle[2],  # model of the vehicle
@@ -98,7 +100,9 @@ with open('count.csv', 'w', newline='') as f:
 filename = '../rows.js'
 system(f'rm {filename}')
 with open(filename, mode='a') as file:
-    file.write(
-        f'var html = \'{html_string}\'; document.getElementById(\'tableBody\').innerHTML = html;')
+    js_data = f'var html = \'{html_string}\';'
+    js_data += f'document.getElementById(\'tableBody\').innerHTML = html;'
+    js_data += f'document.getElementById(\'total-count\').innerHTML = \'<a class="nav-link">Images Scraped: {total_count}</a>\';'
+    file.write(js_data)
 
 print(unified_command[0:(len(unified_command) - 3)])
