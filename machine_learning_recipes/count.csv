@@ -117,7 +117,7 @@ hyundai,elantra,se,2013,648,142,506
 hyundai,elantra,se,2014,2288,880,1408
 hyundai,elantra,se,2015,1656,1656,0
 hyundai,elantra,se,2016,2413,898,1515
-hyundai,elantra,se,2017,9753,6392,3361
+hyundai,elantra,se,2017,9866,6822,3044
 hyundai,elantra,se,2018,8106,3366,4740
 hyundai,elantra,sel,2018,1872,718,1154
 hyundai,elantra,sport,2014,1407,0,1407
@@ -453,13 +453,13 @@ toyota,4runner,limited4wd,1999,20,20,0
 toyota,4runner,limitedv8,2003,100,100,0
 toyota,4runner,limitedv8,2004,82,82,0
 toyota,4runner,limitedv8,2005,308,0,308
-toyota,4runner,limitedv8,2006,44,0,44
+toyota,4runner,limitedv8,2006,34,34,0
 toyota,4runner,limitedv8,2007,115,0,115
 toyota,4runner,limitedv8,2008,0,0,0
 toyota,4runner,sport,2003,120,120,0
 toyota,4runner,sport,2004,122,78,44
 toyota,4runner,sport,2005,419,0,419
-toyota,4runner,sport,2006,578,0,578
+toyota,4runner,sport,2006,548,34,514
 toyota,4runner,sport,2007,153,0,153
 toyota,4runner,sport,2008,525,0,525
 toyota,4runner,sport,2009,112,0,112
