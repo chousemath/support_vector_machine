@@ -136,7 +136,7 @@ hyundai,elantragt,base,2015,1974,0,1974
 hyundai,elantragt,base,2016,1852,1852,0
 hyundai,elantragt,base,2017,2275,846,1429
 hyundai,elantragt,base,2018,1430,1430,0
-hyundai,elantragt,sport,2018,2104,132,1972
+hyundai,elantragt,sport,2018,1955,418,1537
 hyundai,elantratouring,gls,2010,326,326,0
 hyundai,elantratouring,gls,2011,246,246,0
 hyundai,elantratouring,gls,2012,388,388,0
@@ -255,7 +255,7 @@ hyundai,santafesport,2dot0lturbo,2016,1600,1600,0
 hyundai,santafesport,2dot0lturbo,2017,1281,1280,1
 hyundai,santafesport,2dot0lturbo,2018,7798,140,7658
 hyundai,santafesport,2dot4l,2017,21636,370,21266
-hyundai,santafesport,2dot4l,2018,18491,1282,17209
+hyundai,santafesport,2dot4l,2018,18310,1536,16774
 hyundai,sonata,base,2016,2238,2238,0
 hyundai,sonata,base,2017,2165,2164,1
 hyundai,sonata,base,2018,21,20,1
@@ -397,7 +397,7 @@ hyundai,tuscon,se,2014,5014,0,5014
 hyundai,tuscon,se,2015,6073,0,6073
 hyundai,tuscon,se,2016,8854,0,8854
 hyundai,tuscon,se,2017,20703,272,20431
-hyundai,tuscon,se,2018,24050,3660,20390
+hyundai,tuscon,se,2018,23945,3990,19955
 hyundai,tuscon,sel,2018,23216,4710,18506
 hyundai,tuscon,selplus,2018,25333,2084,23249
 hyundai,tuscon,seplus,2017,888,888,0
@@ -405,7 +405,7 @@ hyundai,tuscon,sport,2016,2395,0,2395
 hyundai,tuscon,sport,2017,2226,2226,0
 hyundai,tuscon,sport,2018,11658,0,11658
 hyundai,tuscon,walkingdeadedition,2014,279,0,279
-hyundai,veloster,2dot0,2019,4018,62,3956
+hyundai,veloster,2dot0,2019,3696,1590,2106
 hyundai,veloster,base,2012,2666,2666,0
 hyundai,veloster,base,2013,4046,0,4046
 hyundai,veloster,base,2014,2556,18,2538
@@ -468,7 +468,7 @@ toyota,4runner,sportv8,2005,29,0,29
 toyota,4runner,sportv8,2006,15,0,15
 toyota,4runner,sportv8,2008,69,0,69
 toyota,4runner,sr5,2017,12199,0,12199
-toyota,4runner,sr5,2018,15618,0,15618
+toyota,4runner,sr5,2018,15499,316,15183
 toyota,4runner,sr54wd,1987,14,14,0
 toyota,4runner,sr54wd,1994,6,6,0
 toyota,4runner,sr54wd,1996,6,6,0
