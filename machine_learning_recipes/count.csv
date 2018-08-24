@@ -1,4 +1,5 @@
 astonmartin,db2,base,1952,26,26,0
+audi,a3,2dottpremium,2018,14150,0,14150
 bugatti,veyron16dot4,base,2008,8,8,0
 hyundai,accent,gl,1998,6,6,0
 hyundai,accent,gl,2000,108,108,0
@@ -215,7 +216,7 @@ hyundai,ioniqpluginhybrid,limited,2018,248,248,0
 hyundai,kona,limited,2018,10778,1648,9130
 hyundai,kona,se,2018,9477,766,8711
 hyundai,kona,sel,2018,16214,3474,12740
-hyundai,kona,ultimate,2018,3313,0,3313
+hyundai,kona,ultimate,2018,2214,2214,0
 hyundai,santafe,gl,2001,14,14,0
 hyundai,santafe,gls,2002,132,132,0
 hyundai,santafe,gls,2003,214,214,0
@@ -253,7 +254,7 @@ hyundai,santafesport,2dot0lturbo,2014,5696,0,5696
 hyundai,santafesport,2dot0lturbo,2015,4413,1450,2963
 hyundai,santafesport,2dot0lturbo,2016,1600,1600,0
 hyundai,santafesport,2dot0lturbo,2017,1281,1280,1
-hyundai,santafesport,2dot0lturbo,2018,7798,140,7658
+hyundai,santafesport,2dot0lturbo,2018,7393,936,6457
 hyundai,santafesport,2dot4l,2017,21636,370,21266
 hyundai,santafesport,2dot4l,2018,18310,1536,16774
 hyundai,sonata,base,2016,2238,2238,0
@@ -323,7 +324,7 @@ hyundai,sonata,se,2013,2658,0,2658
 hyundai,sonata,se,2014,2347,32,2315
 hyundai,sonata,se,2015,1884,1884,0
 hyundai,sonata,se,2016,2054,2054,0
-hyundai,sonata,se,2017,1863,1132,731
+hyundai,sonata,se,2017,1642,1642,0
 hyundai,sonata,se,2018,1480,1480,0
 hyundai,sonata,se2dot0t,2011,314,314,0
 hyundai,sonata,se2dot0t,2012,368,368,0
@@ -332,7 +333,7 @@ hyundai,sonata,se2dot0t,2014,510,0,510
 hyundai,sonata,sel,2018,1504,1504,0
 hyundai,sonata,sport,2015,2538,678,1860
 hyundai,sonata,sport,2016,1711,1710,1
-hyundai,sonata,sport,2017,2892,0,2892
+hyundai,sonata,sport,2017,1672,1672,0
 hyundai,sonata,sport,2018,1372,1372,0
 hyundai,sonata,sport2dot0t,2015,3048,0,3048
 hyundai,sonata,sport2dot0t,2016,26,26,0
@@ -342,11 +343,11 @@ hyundai,sonatahybrid,base,2011,198,198,0
 hyundai,sonatahybrid,base,2012,458,458,0
 hyundai,sonatahybrid,base,2013,377,0,377
 hyundai,sonatahybrid,base,2014,111,0,111
-hyundai,sonatahybrid,base,2015,512,0,512
+hyundai,sonatahybrid,base,2015,338,338,0
 hyundai,sonatahybrid,base,2016,22,22,0
 hyundai,sonatahybrid,limited,2013,551,0,551
 hyundai,sonatahybrid,limited,2014,594,0,594
-hyundai,sonatahybrid,limited,2015,528,0,528
+hyundai,sonatahybrid,limited,2015,356,356,0
 hyundai,sonatahybrid,limited,2016,340,340,0
 hyundai,sonatahybrid,limited,2017,540,540,0
 hyundai,sonatahybrid,limited,2018,288,288,0
@@ -374,7 +375,7 @@ hyundai,tuscon,gl,2013,186,186,0
 hyundai,tuscon,gls,2012,758,758,0
 hyundai,tuscon,gls,2013,776,776,0
 hyundai,tuscon,gls,2014,527,0,527
-hyundai,tuscon,gls,2015,2382,0,2382
+hyundai,tuscon,gls,2015,2140,508,1632
 hyundai,tuscon,limited,2006,132,132,0
 hyundai,tuscon,limited,2007,142,142,0
 hyundai,tuscon,limited,2008,106,106,0
@@ -386,7 +387,7 @@ hyundai,tuscon,limited,2013,2341,756,1585
 hyundai,tuscon,limited,2014,2681,0,2681
 hyundai,tuscon,limited,2015,3066,0,3066
 hyundai,tuscon,limited,2016,3259,1040,2219
-hyundai,tuscon,limited,2017,6077,4768,1309
+hyundai,tuscon,limited,2017,5697,5696,1
 hyundai,tuscon,limited,2018,13492,9978,3514
 hyundai,tuscon,lx,2005,66,66,0
 hyundai,tuscon,night,2017,630,630,0
@@ -396,7 +397,7 @@ hyundai,tuscon,se,2009,140,140,0
 hyundai,tuscon,se,2014,5014,0,5014
 hyundai,tuscon,se,2015,6073,0,6073
 hyundai,tuscon,se,2016,8854,0,8854
-hyundai,tuscon,se,2017,20703,272,20431
+hyundai,tuscon,se,2017,20292,1222,19070
 hyundai,tuscon,se,2018,23945,3990,19955
 hyundai,tuscon,sel,2018,23216,4710,18506
 hyundai,tuscon,selplus,2018,25333,2084,23249
@@ -448,7 +449,7 @@ toyota,4runner,4wd,1996,4,4,0
 toyota,4runner,4wd,1997,6,6,0
 toyota,4runner,4wd,1998,46,46,0
 toyota,4runner,4wd,1999,16,16,0
-toyota,4runner,limited,2018,57886,234,57652
+toyota,4runner,limited,2018,57326,1450,55876
 toyota,4runner,limited4wd,1999,20,20,0
 toyota,4runner,limitedv8,2003,100,100,0
 toyota,4runner,limitedv8,2004,82,82,0
@@ -513,5 +514,8 @@ toyota,avalon,limited,2016,1987,0,1987
 toyota,avalon,limited,2017,584,584,0
 toyota,avalon,limited,2018,1550,0,1550
 toyota,avalon,limited,2019,16003,0,16003
+toyota,avalon,premium,2015,72,0,72
+toyota,avalon,touring,2019,11098,0,11098
+volkswagen,atlas,2dotts,2018,2098,0,2098
 volkswagen,tiguan,4motion-auto-r-line,2014,248,248,0
 volkswagen,tiguan,4motion-auto-r-line,2015,504,504,0
