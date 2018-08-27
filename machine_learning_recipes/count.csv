@@ -412,7 +412,7 @@ hyundai,veloster,base,2013,4046,0,4046
 hyundai,veloster,base,2014,2556,18,2538
 hyundai,veloster,base,2015,2567,0,2567
 hyundai,veloster,base,2016,4035,0,4035
-hyundai,veloster,base,2017,3636,172,3464
+hyundai,veloster,base,2017,2519,2518,1
 hyundai,veloster,base,2019,4567,272,4295
 hyundai,veloster,remix,2013,568,0,568
 hyundai,veloster,turbo,2012,0,0,0
@@ -468,8 +468,8 @@ toyota,4runner,sportv8,2004,6,6,0
 toyota,4runner,sportv8,2005,29,0,29
 toyota,4runner,sportv8,2006,15,0,15
 toyota,4runner,sportv8,2008,69,0,69
-toyota,4runner,sr5,2017,12199,0,12199
-toyota,4runner,sr5,2018,15499,316,15183
+toyota,4runner,sr5,2017,11988,408,11580
+toyota,4runner,sr5,2018,14292,3190,11102
 toyota,4runner,sr54wd,1987,14,14,0
 toyota,4runner,sr54wd,1994,6,6,0
 toyota,4runner,sr54wd,1996,6,6,0
@@ -546,6 +546,10 @@ toyota,camry,ce,2001,267,0,267
 toyota,camry,ce,2007,1139,0,1139
 toyota,camry,ce,2008,135,0,135
 toyota,camry,ce,2009,0,0,0
+toyota,camry,l,2012,1220,0,1220
+toyota,camry,l,2013,594,0,594
+toyota,camry,l,2014,2891,0,2891
+toyota,camry,l,2018,11461,0,11461
 toyota,chr,le,2019,6260,0,6260
 toyota,chr,limited,2019,4840,0,4840
 toyota,chr,xlepremium,2018,11681,0,11681
