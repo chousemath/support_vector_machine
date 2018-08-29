@@ -386,7 +386,7 @@ hyundai,tuscon,limited,2012,1116,1116,0
 hyundai,tuscon,limited,2013,2341,756,1585
 hyundai,tuscon,limited,2014,2681,0,2681
 hyundai,tuscon,limited,2015,2591,974,1617
-hyundai,tuscon,limited,2016,3259,1040,2219
+hyundai,tuscon,limited,2016,2424,2424,0
 hyundai,tuscon,limited,2017,5697,5696,1
 hyundai,tuscon,limited,2018,13015,10950,2065
 hyundai,tuscon,lx,2005,66,66,0
@@ -396,7 +396,7 @@ hyundai,tuscon,se,2008,176,176,0
 hyundai,tuscon,se,2009,140,140,0
 hyundai,tuscon,se,2014,5014,0,5014
 hyundai,tuscon,se,2015,6073,0,6073
-hyundai,tuscon,se,2016,8854,0,8854
+hyundai,tuscon,se,2016,8749,204,8545
 hyundai,tuscon,se,2017,18967,4172,14795
 hyundai,tuscon,se,2018,23945,3990,19955
 hyundai,tuscon,sel,2018,23216,4710,18506
@@ -469,7 +469,7 @@ toyota,4runner,sportv8,2005,26,26,0
 toyota,4runner,sportv8,2006,15,0,15
 toyota,4runner,sportv8,2008,69,0,69
 toyota,4runner,sr5,2017,11988,408,11580
-toyota,4runner,sr5,2018,14292,3190,11102
+toyota,4runner,sr5,2018,13555,4980,8575
 toyota,4runner,sr54wd,1987,14,14,0
 toyota,4runner,sr54wd,1994,6,6,0
 toyota,4runner,sr54wd,1996,6,6,0
@@ -550,6 +550,9 @@ toyota,camry,l,2012,1220,0,1220
 toyota,camry,l,2013,594,0,594
 toyota,camry,l,2014,2891,0,2891
 toyota,camry,l,2018,11461,0,11461
+toyota,camry,le,2015,13405,0,13405
+toyota,camry,le,2016,23190,0,23190
+toyota,camry,le,2017,16127,0,16127
 toyota,camry,le,2018,41932,0,41932
 toyota,chr,le,2019,6250,24,6226
 toyota,chr,limited,2019,4840,0,4840
