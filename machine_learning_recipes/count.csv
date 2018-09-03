@@ -103,7 +103,7 @@ hyundai,elantra,gt,2014,0,0,0
 hyundai,elantra,gt,2015,0,0,0
 hyundai,elantra,gt,2016,0,0,0
 hyundai,elantra,gt,2017,0,0,0
-hyundai,elantra,gt,2018,7679,7080,599
+hyundai,elantra,gt,2018,7582,7582,0
 hyundai,elantra,gtsport,2018,0,0,0
 hyundai,elantra,limited,2014,0,0,0
 hyundai,elantra,limited,2015,0,0,0
@@ -119,8 +119,8 @@ hyundai,elantra,se,2014,2288,880,1408
 hyundai,elantra,se,2015,1656,1656,0
 hyundai,elantra,se,2016,2413,898,1515
 hyundai,elantra,se,2017,10984,10962,22
-hyundai,elantra,se,2018,9558,6844,2714
-hyundai,elantra,sel,2018,1872,718,1154
+hyundai,elantra,se,2018,9172,9171,1
+hyundai,elantra,sel,2018,1127,1127,0
 hyundai,elantra,sport,2014,1407,0,1407
 hyundai,elantra,sport,2015,2210,0,2210
 hyundai,elantra,sport,2016,180,180,0
@@ -137,7 +137,7 @@ hyundai,elantragt,base,2015,1974,0,1974
 hyundai,elantragt,base,2016,1852,1852,0
 hyundai,elantragt,base,2017,2011,1462,549
 hyundai,elantragt,base,2018,1430,1430,0
-hyundai,elantragt,sport,2018,1955,418,1537
+hyundai,elantragt,sport,2018,1234,764,470
 hyundai,elantratouring,gls,2010,326,326,0
 hyundai,elantratouring,gls,2011,246,246,0
 hyundai,elantratouring,gls,2012,388,388,0
@@ -482,7 +482,7 @@ toyota,4runner,sr54wd,2000,20,20,0
 toyota,4runner,sr5premium,2018,23897,0,23897
 toyota,4runner,sr5sport,2004,380,380,0
 toyota,4runner,trail,2010,214,214,0
-toyota,4runner,trail,2011,91,0,91
+toyota,4runner,trail,2011,20,20,0
 toyota,4runner,trail,2012,120,0,120
 toyota,4runner,trail,2013,51,0,51
 toyota,4runner,trail,2014,525,0,525
@@ -498,7 +498,7 @@ toyota,4runner,trdpro,2018,1304,0,1304
 toyota,86,860specialedition,2017,838,0,838
 toyota,86,gt,2018,2126,0,2126
 toyota,86,se,2017,18,18,0
-toyota,avalon,base,2011,989,0,989
+toyota,avalon,base,2011,515,296,219
 toyota,avalon,base,2012,715,0,715
 toyota,avalon,base,2013,133,0,133
 toyota,avalon,limited,2005,360,360,0
@@ -552,7 +552,7 @@ toyota,camry,l,2012,1220,0,1220
 toyota,camry,l,2013,594,0,594
 toyota,camry,l,2014,2891,0,2891
 toyota,camry,l,2018,11383,286,11097
-toyota,camry,le,2010,3565,730,2835
+toyota,camry,le,2010,1761,1758,3
 toyota,camry,le,2011,7221,0,7221
 toyota,camry,le,2012,5312,0,5312
 toyota,camry,le,2013,4888,0,4888
