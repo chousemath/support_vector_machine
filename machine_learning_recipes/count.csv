@@ -68,7 +68,7 @@ hyundai,azera,limited,2011,60,60,0
 hyundai,azera,limited,2012,0,0,0
 hyundai,azera,limited,2013,0,0,0
 hyundai,azera,limited,2014,257,0,257
-hyundai,azera,limited,2015,145,58,87
+hyundai,azera,limited,2015,203,116,87
 hyundai,azera,limited,2016,464,464,0
 hyundai,azera,limited,2017,2681,2680,1
 hyundai,azera,se,2006,52,52,0
@@ -255,7 +255,7 @@ hyundai,santafesport,2dot0lturbo,2015,4413,1450,2963
 hyundai,santafesport,2dot0lturbo,2016,1600,1600,0
 hyundai,santafesport,2dot0lturbo,2017,1281,1280,1
 hyundai,santafesport,2dot0lturbo,2018,5332,5332,0
-hyundai,santafesport,2dot4l,2017,18270,3041,15229
+hyundai,santafesport,2dot4l,2017,19617,4388,15229
 hyundai,santafesport,2dot4l,2018,18011,1972,16039
 hyundai,sonata,base,2016,2238,2238,0
 hyundai,sonata,base,2017,2165,2164,1
@@ -399,7 +399,7 @@ hyundai,tuscon,se,2015,6073,0,6073
 hyundai,tuscon,se,2016,8749,204,8545
 hyundai,tuscon,se,2017,16897,8368,8529
 hyundai,tuscon,se,2018,23945,3990,19955
-hyundai,tuscon,sel,2018,23216,4710,18506
+hyundai,tuscon,sel,2018,21519,9202,12317
 hyundai,tuscon,selplus,2018,25333,2084,23249
 hyundai,tuscon,seplus,2017,888,888,0
 hyundai,tuscon,sport,2016,2395,0,2395
@@ -421,7 +421,7 @@ hyundai,veloster,turbo,2014,0,0,0
 hyundai,veloster,turbo,2015,0,0,0
 hyundai,veloster,turbo,2016,0,0,0
 hyundai,veloster,turbo,2017,0,0,0
-hyundai,veloster,turbo,2019,1968,0,1968
+hyundai,veloster,turbo,2019,1354,1354,0
 hyundai,veloster,turborallyedition,2016,0,0,0
 hyundai,veloster,turborspec,2014,0,0,0
 hyundai,veloster,turborspec,2015,0,0,0
@@ -445,7 +445,7 @@ hyundai,xg350,l,2002,0,0,0
 hyundai,xg350,l,2003,0,0,0
 hyundai,xg350,l,2004,0,0,0
 hyundai,xg350,l,2005,0,0,0
-mercedesbenz,cclass,c250,2011,5164,5107,57
+mercedesbenz,cclass,c250,2011,5779,5722,57
 mercedesbenz,cclass,c250,2012,11375,2822,8553
 mercedesbenz,cclass,c250,2013,6691,0,6691
 mercedesbenz,cclass,c250,2014,6561,0,6561
@@ -473,7 +473,7 @@ toyota,4runner,sportv8,2004,6,6,0
 toyota,4runner,sportv8,2005,26,26,0
 toyota,4runner,sportv8,2006,18,18,0
 toyota,4runner,sportv8,2008,52,52,0
-toyota,4runner,sr5,2017,11988,408,11580
+toyota,4runner,sr5,2017,10256,4866,5390
 toyota,4runner,sr5,2018,13555,4980,8575
 toyota,4runner,sr54wd,1987,14,14,0
 toyota,4runner,sr54wd,1994,6,6,0
@@ -499,9 +499,9 @@ toyota,4runner,trdpro,2016,1307,0,1307
 toyota,4runner,trdpro,2017,423,0,423
 toyota,4runner,trdpro,2018,1304,0,1304
 toyota,86,860specialedition,2017,838,0,838
-toyota,86,gt,2018,952,677,275
+toyota,86,gt,2018,1629,1354,275
 toyota,86,se,2017,18,18,0
-toyota,avalon,base,2011,678,678,0
+toyota,avalon,base,2011,764,764,0
 toyota,avalon,base,2012,464,464,0
 toyota,avalon,base,2013,133,0,133
 toyota,avalon,limited,2005,360,360,0
@@ -510,15 +510,15 @@ toyota,avalon,limited,2007,704,704,0
 toyota,avalon,limited,2008,694,694,0
 toyota,avalon,limited,2009,322,322,0
 toyota,avalon,limited,2010,328,328,0
-toyota,avalon,limited,2011,1131,777,354
+toyota,avalon,limited,2011,1765,1764,1
 toyota,avalon,limited,2012,1068,174,894
 toyota,avalon,limited,2013,2379,0,2379
 toyota,avalon,limited,2014,1026,1026,0
-toyota,avalon,limited,2015,2905,1027,1878
+toyota,avalon,limited,2015,3578,1700,1878
 toyota,avalon,limited,2016,1987,0,1987
 toyota,avalon,limited,2017,584,584,0
 toyota,avalon,limited,2018,1550,0,1550
-toyota,avalon,limited,2019,15980,10,15970
+toyota,avalon,limited,2019,14498,2754,11744
 toyota,avalon,premium,2015,28,28,0
 toyota,avalon,touring,2019,11098,0,11098
 toyota,avalon,xl,1999,62,62,0
@@ -542,7 +542,7 @@ toyota,avalonhybrid,limited,2018,478,478,0
 toyota,avalonhybrid,limited,2019,4035,0,4035
 toyota,avalonhybrid,xle,2019,2249,16,2233
 toyota,avalonhybrid,xse,2019,5699,0,5699
-toyota,camry,base,2011,330,0,330
+toyota,camry,base,2011,248,248,0
 toyota,camry,ce,1997,18,18,0
 toyota,camry,ce,1998,60,60,0
 toyota,camry,ce,1999,132,132,0
@@ -556,7 +556,7 @@ toyota,camry,l,2013,594,0,594
 toyota,camry,l,2014,2891,0,2891
 toyota,camry,l,2018,11383,286,11097
 toyota,camry,le,2010,2789,2786,3
-toyota,camry,le,2011,7221,0,7221
+toyota,camry,le,2011,5584,5084,500
 toyota,camry,le,2012,5312,0,5312
 toyota,camry,le,2013,4888,0,4888
 toyota,camry,le,2014,5519,0,5519
