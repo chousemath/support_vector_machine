@@ -115,7 +115,7 @@ $ python label_image.py --graph=/Users/jo/Desktop/data_science/support_vector_ma
 # retrain the model
 # tensorflow demands all images by jpg
 # You can very likely get improved results (i.e. higher accuracy) by training for longer (how_many_training_steps)
-$ python retrain.py --bottleneck_dir=tf_files/bottlenecks --how_many_training_steps=4000 --model_dir=tf_files/models/ --summaries_dir=tf_files/training_summaries/"${ARCHITECTURE}" --output_graph=tf_files/retrained_graph.pb --output_labels=tf_files/retrained_labels.txt --architecture="${ARCHITECTURE}" --image_dir=tf_files/flower_photos
+$ pipenv run python retrain.py --bottleneck_dir=tf_files/bottlenecks --how_many_training_steps=4000 --model_dir=tf_files/models/ --summaries_dir=tf_files/training_summaries/"${ARCHITECTURE}" --output_graph=tf_files/retrained_graph.pb --output_labels=tf_files/retrained_labels.txt --architecture="${ARCHITECTURE}" --image_dir=tf_files/flower_photos
 ```
 
 ```bash

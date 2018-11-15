@@ -1,17 +1,10 @@
+1998 toyota 4runner 4wd
+1998 toyota camry ce
+1999 toyota avalon xl
+1999 toyota camry ce
 2000 hyundai accent gl
-2002 hyundai accent gl
-2003 hyundai accent gl
-2004 hyundai accent gl
-2005 hyundai accent gls
-2006 hyundai accent gls
-2008 hyundai accent gls
-2009 hyundai accent gls
-2010 hyundai accent gls
-2011 hyundai accent gl
-2011 hyundai accent gls
-2012 hyundai accent gls
-2013 hyundai accent gls
-2014 hyundai accent gls
-2014 volkswagen tiguan 4motion auto r line
-2015 hyundai accent gls
-2015 volkswagen tiguan 4motion auto r line
+2000 hyundai elantra gls
+2000 hyundai sonata gls
+2000 toyota avalon xl
+2000 toyota camry ce
+trash data
