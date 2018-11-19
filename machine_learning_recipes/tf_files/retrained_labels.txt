@@ -7,4 +7,15 @@
 2000 hyundai sonata gls
 2000 toyota avalon xl
 2000 toyota camry ce
+2001 hyundai accent gl
+2001 hyundai elantra gls
+2002 hyundai accent gl
+2002 toyota avalon xl
+2006 hyundai azera se
+2006 hyundai santafe gls
+2006 hyundai tiburon gs
+2006 hyundai tuscon limited
+2006 toyota avalon limited
+2007 hyundai accent gls
+2018 toyota avalon limited
 trash data
