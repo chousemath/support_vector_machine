@@ -120,9 +120,13 @@ $ pipenv run python retrain.py --bottleneck_dir=tf_files/bottlenecks --how_many_
 
 ```bash
 # actually use the model on my personal computer
-$ python label_image.py --graph=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/retrained_graph.pb --labels=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/tf_files/retrained_labels.txt --input_layer=Placeholder --output_layer=final_result --image=/Users/jo/Desktop/data_science/support_vector_machine/machine_learning_recipes/test_data/test.jpg
+$ pipenv run python label_image.py --graph=/Volumes/TriveStorage/support_vector_machine/machine_learning_recipes/tf_files/retrained_graph.pb --labels=/Volumes/TriveStorage/support_vector_machine/machine_learning_recipes/tf_files/retrained_labels.txt --input_layer=Placeholder --output_layer=final_result --image=/Volumes/TriveStorage/support_vector_machine/machine_learning_recipes/test_data/test_2006_hyundai_santafe_gls.png
+
+$ pipenv run python label_image.py --graph=/Volumes/TriveStorage/support_vector_machine/machine_learning_recipes/tf_files/retrained_graph.pb --labels=/Volumes/TriveStorage/support_vector_machine/machine_learning_recipes/tf_files/retrained_labels.txt --input_layer=Placeholder --output_layer=final_result --image=/Volumes/TriveStorage/support_vector_machine/machine_learning_recipes/test_data/test_2006_hyundai_tuscon_limited_1.png
+
+$ pipenv run python label_image.py --graph=/Volumes/TriveStorage/support_vector_machine/machine_learning_recipes/tf_files/retrained_graph.pb --labels=/Volumes/TriveStorage/support_vector_machine/machine_learning_recipes/tf_files/retrained_labels.txt --input_layer=Placeholder --output_layer=final_result --image=/Volumes/TriveStorage/support_vector_machine/machine_learning_recipes/test_data/test_2001_hyundai_elantra_gls_1.png
 # performing the same command on a linux box
-python label_image.py --graph=/home/contact/support_vector_machine/machine_learning_recipes/tf_files/retrained_graph.pb --labels=/home/contact/support_vector_machine/machine_learning_recipes/tf_files/retrained_labels.txt --input_layer=Placeholder --output_layer=final_result --image=/home/contact/support_vector_machine/machine_learning_recipes/test_data/test.jpg
+python label_image.py --graph=/home/contact/support_vector_machine/machine_learning_recipes/tf_files/retrained_graph.pb --labels=/home/contact/support_vector_machine/machine_learning_recipes/tf_files/retrained_labels.txt --input_layer=Placeholder --output_layer=final_result --image=/home/contact/support_vector_machine/machine_learning_recipes/test_data/2014_volkswagen_tiguan_2.0-tdi-comfort_13.jpg
 ```
 
 ### Using Anaconda on Google Compute Engine
